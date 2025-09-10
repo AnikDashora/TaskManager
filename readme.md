@@ -70,6 +70,67 @@ task_control_system/
 
 ---
 
+## Data Storage Structure
+
+The system uses **JSON files** for data persistence. Below are the **general forms** of all files.
+
+### 1. `user.json`  
+Stores user information mapped by **email**.  
+
+```json
+{
+  "user_email": {
+    "user_id": "UID123",
+    "username": "string",
+    "password": "hashed_password",
+    "theme": "Dark/Light",
+    "created_at": "ISO8601_datetime"
+  }
+}
+```
+
+---
+
+### 2. `plan.json`  
+Stores plans created by users, grouped by **user_id**.  
+
+```json
+{
+  "user_id": [
+    {
+      "plan_id": "PID123",
+      "plan_date": "YYYY-MM-DD",
+      "total_task": 0,
+      "completed_task": 0,
+      "created_at": "ISO8601_datetime",
+      "updated_at": "ISO8601_datetime"
+    }
+  ]
+}
+```
+
+---
+
+### 3. `task.json`  
+Stores tasks, grouped by **plan_id**.  
+
+```json
+{
+  "plan_id": [
+    {
+      "task_id": "TID123",
+      "title": "string",
+      "status": "Completed/Incomplete",
+      "incomplete_reason": "string or null",
+      "created_at": "ISO8601_datetime",
+      "updated_at": "ISO8601_datetime"
+    }
+  ]
+}
+```
+
+---
+
 ## Installation
 
 1. Clone the repository:
