@@ -96,16 +96,13 @@ Stores plans created by users, grouped by **user_id**.
 
 ```json
 {
-  "user_id": [
-    {
-      "plan_id": "PID123",
-      "plan_date": "YYYY-MM-DD",
-      "total_task": 0,
-      "completed_task": 0,
-      "created_at": "ISO8601_datetime",
-      "updated_at": "ISO8601_datetime"
-    }
-  ]
+  "plan_id": {
+    "user_id": "U001",
+    "plan_date": "YYYY-MM-DD",
+    "total_task": 0,
+    "completed_task": 0,
+    "created_at": "ISO8601_datetime"
+  }
 }
 ```
 
@@ -116,16 +113,14 @@ Stores tasks, grouped by **plan_id**.
 
 ```json
 {
-  "plan_id": [
-    {
-      "task_id": "TID123",
-      "title": "string",
-      "status": "Completed/Incomplete",
-      "incomplete_reason": "string or null",
-      "created_at": "ISO8601_datetime",
-      "updated_at": "ISO8601_datetime"
-    }
-  ]
+  "task_id": {
+    "plan_id": "P001",
+    "title": "string",
+    "status": "Completed/Incomplete",
+    "incomplete_reason": "string or null",
+    "created_at": "ISO8601_datetime",
+    "updated_at": "ISO8601_datetime"
+  }
 }
 ```
 
