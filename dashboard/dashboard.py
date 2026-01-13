@@ -434,12 +434,12 @@ header_styles = """
         }
         .st-key-header-right .st-emotion-cache-18kf3ut{
             width:fit-content;
-            min-height:10px;
             gap:0;
         }
-        .st-key-stats-container  .st-emotion-cache-1rj1438{
+        .st-key-stats-container  .stMarkdown div{
             margin:0;
         }
+        
         .stat-item {
             display: flex !important;
             align-items: center !important;
