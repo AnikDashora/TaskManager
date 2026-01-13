@@ -1,0 +1,3652 @@
+{
+    "2024-01-01": {
+        "planId": "P0001",
+        "TotalTask": 12,
+        "CompletedTask": 9
+    },
+    "2024-01-02": {
+        "planId": "P0002",
+        "TotalTask": 20,
+        "CompletedTask": 10
+    },
+    "2024-01-03": {
+        "planId": "P0003",
+        "TotalTask": 19,
+        "CompletedTask": 7
+    },
+    "2024-01-04": {
+        "planId": "P0004",
+        "TotalTask": 14,
+        "CompletedTask": 7
+    },
+    "2024-01-05": {
+        "planId": "P0005",
+        "TotalTask": 8,
+        "CompletedTask": 7
+    },
+    "2024-01-06": {
+        "planId": "P0006",
+        "TotalTask": 13,
+        "CompletedTask": 4
+    },
+    "2024-01-07": {
+        "planId": "P0007",
+        "TotalTask": 16,
+        "CompletedTask": 7
+    },
+    "2024-01-08": {
+        "planId": "P0008",
+        "TotalTask": 12,
+        "CompletedTask": 4
+    },
+    "2024-01-09": {
+        "planId": "P0009",
+        "TotalTask": 9,
+        "CompletedTask": 2
+    },
+    "2024-01-10": {
+        "planId": "P0010",
+        "TotalTask": 13,
+        "CompletedTask": 8
+    },
+    "2024-01-11": {
+        "planId": "P0011",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2024-01-12": {
+        "planId": "P0012",
+        "TotalTask": 20,
+        "CompletedTask": 11
+    },
+    "2024-01-13": {
+        "planId": "P0013",
+        "TotalTask": 20,
+        "CompletedTask": 8
+    },
+    "2024-01-14": {
+        "planId": "P0014",
+        "TotalTask": 9,
+        "CompletedTask": 4
+    },
+    "2024-01-15": {
+        "planId": "P0015",
+        "TotalTask": 12,
+        "CompletedTask": 4
+    },
+    "2024-01-16": {
+        "planId": "P0016",
+        "TotalTask": 7,
+        "CompletedTask": 5
+    },
+    "2024-01-17": {
+        "planId": "P0017",
+        "TotalTask": 12,
+        "CompletedTask": 9
+    },
+    "2024-01-18": {
+        "planId": "P0018",
+        "TotalTask": 15,
+        "CompletedTask": 9
+    },
+    "2024-01-19": {
+        "planId": "P0019",
+        "TotalTask": 9,
+        "CompletedTask": 5
+    },
+    "2024-01-20": {
+        "planId": "P0020",
+        "TotalTask": 20,
+        "CompletedTask": 14
+    },
+    "2024-01-21": {
+        "planId": "P0021",
+        "TotalTask": 6,
+        "CompletedTask": 5
+    },
+    "2024-01-22": {
+        "planId": "P0022",
+        "TotalTask": 11,
+        "CompletedTask": 4
+    },
+    "2024-01-23": {
+        "planId": "P0023",
+        "TotalTask": 20,
+        "CompletedTask": 14
+    },
+    "2024-01-24": {
+        "planId": "P0024",
+        "TotalTask": 19,
+        "CompletedTask": 7
+    },
+    "2024-01-25": {
+        "planId": "P0025",
+        "TotalTask": 14,
+        "CompletedTask": 6
+    },
+    "2024-01-26": {
+        "planId": "P0026",
+        "TotalTask": 13,
+        "CompletedTask": 8
+    },
+    "2024-01-27": {
+        "planId": "P0027",
+        "TotalTask": 18,
+        "CompletedTask": 8
+    },
+    "2024-01-28": {
+        "planId": "P0028",
+        "TotalTask": 17,
+        "CompletedTask": 6
+    },
+    "2024-01-29": {
+        "planId": "P0029",
+        "TotalTask": 19,
+        "CompletedTask": 9
+    },
+    "2024-01-30": {
+        "planId": "P0030",
+        "TotalTask": 15,
+        "CompletedTask": 7
+    },
+    "2024-01-31": {
+        "planId": "P0031",
+        "TotalTask": 14,
+        "CompletedTask": 9
+    },
+    "2024-02-01": {
+        "planId": "P0032",
+        "TotalTask": 17,
+        "CompletedTask": 7
+    },
+    "2024-02-02": {
+        "planId": "P0033",
+        "TotalTask": 6,
+        "CompletedTask": 2
+    },
+    "2024-02-03": {
+        "planId": "P0034",
+        "TotalTask": 17,
+        "CompletedTask": 7
+    },
+    "2024-02-04": {
+        "planId": "P0035",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2024-02-05": {
+        "planId": "P0036",
+        "TotalTask": 11,
+        "CompletedTask": 2
+    },
+    "2024-02-06": {
+        "planId": "P0037",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2024-02-07": {
+        "planId": "P0038",
+        "TotalTask": 9,
+        "CompletedTask": 5
+    },
+    "2024-02-08": {
+        "planId": "P0039",
+        "TotalTask": 10,
+        "CompletedTask": 4
+    },
+    "2024-02-09": {
+        "planId": "P0040",
+        "TotalTask": 6,
+        "CompletedTask": 2
+    },
+    "2024-02-10": {
+        "planId": "P0041",
+        "TotalTask": 6,
+        "CompletedTask": 4
+    },
+    "2024-02-11": {
+        "planId": "P0042",
+        "TotalTask": 12,
+        "CompletedTask": 5
+    },
+    "2024-02-12": {
+        "planId": "P0043",
+        "TotalTask": 11,
+        "CompletedTask": 7
+    },
+    "2024-02-13": {
+        "planId": "P0044",
+        "TotalTask": 17,
+        "CompletedTask": 6
+    },
+    "2024-02-14": {
+        "planId": "P0045",
+        "TotalTask": 18,
+        "CompletedTask": 9
+    },
+    "2024-02-15": {
+        "planId": "P0046",
+        "TotalTask": 17,
+        "CompletedTask": 8
+    },
+    "2024-02-16": {
+        "planId": "P0047",
+        "TotalTask": 5,
+        "CompletedTask": 4
+    },
+    "2024-02-17": {
+        "planId": "P0048",
+        "TotalTask": 11,
+        "CompletedTask": 6
+    },
+    "2024-02-18": {
+        "planId": "P0049",
+        "TotalTask": 18,
+        "CompletedTask": 11
+    },
+    "2024-02-19": {
+        "planId": "P0050",
+        "TotalTask": 13,
+        "CompletedTask": 8
+    },
+    "2024-02-20": {
+        "planId": "P0051",
+        "TotalTask": 6,
+        "CompletedTask": 3
+    },
+    "2024-02-21": {
+        "planId": "P0052",
+        "TotalTask": 6,
+        "CompletedTask": 2
+    },
+    "2024-02-22": {
+        "planId": "P0053",
+        "TotalTask": 13,
+        "CompletedTask": 5
+    },
+    "2024-02-23": {
+        "planId": "P0054",
+        "TotalTask": 14,
+        "CompletedTask": 11
+    },
+    "2024-02-24": {
+        "planId": "P0055",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2024-02-25": {
+        "planId": "P0056",
+        "TotalTask": 15,
+        "CompletedTask": 5
+    },
+    "2024-02-26": {
+        "planId": "P0057",
+        "TotalTask": 9,
+        "CompletedTask": 4
+    },
+    "2024-02-27": {
+        "planId": "P0058",
+        "TotalTask": 8,
+        "CompletedTask": 4
+    },
+    "2024-02-28": {
+        "planId": "P0059",
+        "TotalTask": 16,
+        "CompletedTask": 9
+    },
+    "2024-02-29": {
+        "planId": "P0060",
+        "TotalTask": 19,
+        "CompletedTask": 15
+    },
+    "2024-03-01": {
+        "planId": "P0061",
+        "TotalTask": 12,
+        "CompletedTask": 8
+    },
+    "2024-03-02": {
+        "planId": "P0062",
+        "TotalTask": 18,
+        "CompletedTask": 13
+    },
+    "2024-03-03": {
+        "planId": "P0063",
+        "TotalTask": 18,
+        "CompletedTask": 10
+    },
+    "2024-03-04": {
+        "planId": "P0064",
+        "TotalTask": 15,
+        "CompletedTask": 8
+    },
+    "2024-03-05": {
+        "planId": "P0065",
+        "TotalTask": 11,
+        "CompletedTask": 6
+    },
+    "2024-03-06": {
+        "planId": "P0066",
+        "TotalTask": 11,
+        "CompletedTask": 4
+    },
+    "2024-03-07": {
+        "planId": "P0067",
+        "TotalTask": 20,
+        "CompletedTask": 11
+    },
+    "2024-03-08": {
+        "planId": "P0068",
+        "TotalTask": 18,
+        "CompletedTask": 10
+    },
+    "2024-03-09": {
+        "planId": "P0069",
+        "TotalTask": 7,
+        "CompletedTask": 2
+    },
+    "2024-03-10": {
+        "planId": "P0070",
+        "TotalTask": 15,
+        "CompletedTask": 8
+    },
+    "2024-03-11": {
+        "planId": "P0071",
+        "TotalTask": 15,
+        "CompletedTask": 9
+    },
+    "2024-03-12": {
+        "planId": "P0072",
+        "TotalTask": 19,
+        "CompletedTask": 11
+    },
+    "2024-03-13": {
+        "planId": "P0073",
+        "TotalTask": 17,
+        "CompletedTask": 10
+    },
+    "2024-03-14": {
+        "planId": "P0074",
+        "TotalTask": 13,
+        "CompletedTask": 5
+    },
+    "2024-03-15": {
+        "planId": "P0075",
+        "TotalTask": 7,
+        "CompletedTask": 5
+    },
+    "2024-03-16": {
+        "planId": "P0076",
+        "TotalTask": 7,
+        "CompletedTask": 3
+    },
+    "2024-03-17": {
+        "planId": "P0077",
+        "TotalTask": 9,
+        "CompletedTask": 7
+    },
+    "2024-03-18": {
+        "planId": "P0078",
+        "TotalTask": 15,
+        "CompletedTask": 9
+    },
+    "2024-03-19": {
+        "planId": "P0079",
+        "TotalTask": 14,
+        "CompletedTask": 6
+    },
+    "2024-03-20": {
+        "planId": "P0080",
+        "TotalTask": 11,
+        "CompletedTask": 6
+    },
+    "2024-03-21": {
+        "planId": "P0081",
+        "TotalTask": 5,
+        "CompletedTask": 1
+    },
+    "2024-03-22": {
+        "planId": "P0082",
+        "TotalTask": 20,
+        "CompletedTask": 13
+    },
+    "2024-03-23": {
+        "planId": "P0083",
+        "TotalTask": 13,
+        "CompletedTask": 9
+    },
+    "2024-03-24": {
+        "planId": "P0084",
+        "TotalTask": 11,
+        "CompletedTask": 6
+    },
+    "2024-03-25": {
+        "planId": "P0085",
+        "TotalTask": 19,
+        "CompletedTask": 12
+    },
+    "2024-03-26": {
+        "planId": "P0086",
+        "TotalTask": 13,
+        "CompletedTask": 2
+    },
+    "2024-03-27": {
+        "planId": "P0087",
+        "TotalTask": 15,
+        "CompletedTask": 8
+    },
+    "2024-03-28": {
+        "planId": "P0088",
+        "TotalTask": 11,
+        "CompletedTask": 7
+    },
+    "2024-03-29": {
+        "planId": "P0089",
+        "TotalTask": 14,
+        "CompletedTask": 5
+    },
+    "2024-03-30": {
+        "planId": "P0090",
+        "TotalTask": 15,
+        "CompletedTask": 5
+    },
+    "2024-03-31": {
+        "planId": "P0091",
+        "TotalTask": 10,
+        "CompletedTask": 4
+    },
+    "2024-04-01": {
+        "planId": "P0092",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2024-04-02": {
+        "planId": "P0093",
+        "TotalTask": 10,
+        "CompletedTask": 6
+    },
+    "2024-04-03": {
+        "planId": "P0094",
+        "TotalTask": 17,
+        "CompletedTask": 10
+    },
+    "2024-04-04": {
+        "planId": "P0095",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2024-04-05": {
+        "planId": "P0096",
+        "TotalTask": 15,
+        "CompletedTask": 8
+    },
+    "2024-04-06": {
+        "planId": "P0097",
+        "TotalTask": 17,
+        "CompletedTask": 8
+    },
+    "2024-04-07": {
+        "planId": "P0098",
+        "TotalTask": 18,
+        "CompletedTask": 8
+    },
+    "2024-04-08": {
+        "planId": "P0099",
+        "TotalTask": 13,
+        "CompletedTask": 7
+    },
+    "2024-04-09": {
+        "planId": "P0100",
+        "TotalTask": 10,
+        "CompletedTask": 7
+    },
+    "2024-04-10": {
+        "planId": "P0101",
+        "TotalTask": 15,
+        "CompletedTask": 6
+    },
+    "2024-04-11": {
+        "planId": "P0102",
+        "TotalTask": 7,
+        "CompletedTask": 5
+    },
+    "2024-04-12": {
+        "planId": "P0103",
+        "TotalTask": 18,
+        "CompletedTask": 11
+    },
+    "2024-04-13": {
+        "planId": "P0104",
+        "TotalTask": 14,
+        "CompletedTask": 8
+    },
+    "2024-04-14": {
+        "planId": "P0105",
+        "TotalTask": 6,
+        "CompletedTask": 4
+    },
+    "2024-04-15": {
+        "planId": "P0106",
+        "TotalTask": 13,
+        "CompletedTask": 6
+    },
+    "2024-04-16": {
+        "planId": "P0107",
+        "TotalTask": 12,
+        "CompletedTask": 6
+    },
+    "2024-04-17": {
+        "planId": "P0108",
+        "TotalTask": 5,
+        "CompletedTask": 1
+    },
+    "2024-04-18": {
+        "planId": "P0109",
+        "TotalTask": 15,
+        "CompletedTask": 8
+    },
+    "2024-04-19": {
+        "planId": "P0110",
+        "TotalTask": 10,
+        "CompletedTask": 2
+    },
+    "2024-04-20": {
+        "planId": "P0111",
+        "TotalTask": 10,
+        "CompletedTask": 6
+    },
+    "2024-04-21": {
+        "planId": "P0112",
+        "TotalTask": 6,
+        "CompletedTask": 2
+    },
+    "2024-04-22": {
+        "planId": "P0113",
+        "TotalTask": 8,
+        "CompletedTask": 4
+    },
+    "2024-04-23": {
+        "planId": "P0114",
+        "TotalTask": 15,
+        "CompletedTask": 8
+    },
+    "2024-04-24": {
+        "planId": "P0115",
+        "TotalTask": 19,
+        "CompletedTask": 9
+    },
+    "2024-04-25": {
+        "planId": "P0116",
+        "TotalTask": 9,
+        "CompletedTask": 5
+    },
+    "2024-04-26": {
+        "planId": "P0117",
+        "TotalTask": 11,
+        "CompletedTask": 5
+    },
+    "2024-04-27": {
+        "planId": "P0118",
+        "TotalTask": 16,
+        "CompletedTask": 10
+    },
+    "2024-04-28": {
+        "planId": "P0119",
+        "TotalTask": 12,
+        "CompletedTask": 5
+    },
+    "2024-04-29": {
+        "planId": "P0120",
+        "TotalTask": 12,
+        "CompletedTask": 7
+    },
+    "2024-04-30": {
+        "planId": "P0121",
+        "TotalTask": 13,
+        "CompletedTask": 5
+    },
+    "2024-05-01": {
+        "planId": "P0122",
+        "TotalTask": 5,
+        "CompletedTask": 1
+    },
+    "2024-05-02": {
+        "planId": "P0123",
+        "TotalTask": 8,
+        "CompletedTask": 2
+    },
+    "2024-05-03": {
+        "planId": "P0124",
+        "TotalTask": 11,
+        "CompletedTask": 8
+    },
+    "2024-05-04": {
+        "planId": "P0125",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2024-05-05": {
+        "planId": "P0126",
+        "TotalTask": 16,
+        "CompletedTask": 6
+    },
+    "2024-05-06": {
+        "planId": "P0127",
+        "TotalTask": 9,
+        "CompletedTask": 4
+    },
+    "2024-05-07": {
+        "planId": "P0128",
+        "TotalTask": 6,
+        "CompletedTask": 2
+    },
+    "2024-05-08": {
+        "planId": "P0129",
+        "TotalTask": 11,
+        "CompletedTask": 4
+    },
+    "2024-05-09": {
+        "planId": "P0130",
+        "TotalTask": 7,
+        "CompletedTask": 4
+    },
+    "2024-05-10": {
+        "planId": "P0131",
+        "TotalTask": 10,
+        "CompletedTask": 3
+    },
+    "2024-05-11": {
+        "planId": "P0132",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2024-05-12": {
+        "planId": "P0133",
+        "TotalTask": 5,
+        "CompletedTask": 4
+    },
+    "2024-05-13": {
+        "planId": "P0134",
+        "TotalTask": 9,
+        "CompletedTask": 5
+    },
+    "2024-05-14": {
+        "planId": "P0135",
+        "TotalTask": 8,
+        "CompletedTask": 4
+    },
+    "2024-05-15": {
+        "planId": "P0136",
+        "TotalTask": 15,
+        "CompletedTask": 11
+    },
+    "2024-05-16": {
+        "planId": "P0137",
+        "TotalTask": 16,
+        "CompletedTask": 8
+    },
+    "2024-05-17": {
+        "planId": "P0138",
+        "TotalTask": 12,
+        "CompletedTask": 5
+    },
+    "2024-05-18": {
+        "planId": "P0139",
+        "TotalTask": 18,
+        "CompletedTask": 7
+    },
+    "2024-05-19": {
+        "planId": "P0140",
+        "TotalTask": 12,
+        "CompletedTask": 8
+    },
+    "2024-05-20": {
+        "planId": "P0141",
+        "TotalTask": 8,
+        "CompletedTask": 3
+    },
+    "2024-05-21": {
+        "planId": "P0142",
+        "TotalTask": 20,
+        "CompletedTask": 7
+    },
+    "2024-05-22": {
+        "planId": "P0143",
+        "TotalTask": 9,
+        "CompletedTask": 6
+    },
+    "2024-05-23": {
+        "planId": "P0144",
+        "TotalTask": 9,
+        "CompletedTask": 6
+    },
+    "2024-05-24": {
+        "planId": "P0145",
+        "TotalTask": 16,
+        "CompletedTask": 6
+    },
+    "2024-05-25": {
+        "planId": "P0146",
+        "TotalTask": 18,
+        "CompletedTask": 10
+    },
+    "2024-05-26": {
+        "planId": "P0147",
+        "TotalTask": 15,
+        "CompletedTask": 9
+    },
+    "2024-05-27": {
+        "planId": "P0148",
+        "TotalTask": 14,
+        "CompletedTask": 5
+    },
+    "2024-05-28": {
+        "planId": "P0149",
+        "TotalTask": 7,
+        "CompletedTask": 4
+    },
+    "2024-05-29": {
+        "planId": "P0150",
+        "TotalTask": 5,
+        "CompletedTask": 2
+    },
+    "2024-05-30": {
+        "planId": "P0151",
+        "TotalTask": 12,
+        "CompletedTask": 8
+    },
+    "2024-05-31": {
+        "planId": "P0152",
+        "TotalTask": 13,
+        "CompletedTask": 6
+    },
+    "2024-06-01": {
+        "planId": "P0153",
+        "TotalTask": 9,
+        "CompletedTask": 5
+    },
+    "2024-06-02": {
+        "planId": "P0154",
+        "TotalTask": 20,
+        "CompletedTask": 12
+    },
+    "2024-06-03": {
+        "planId": "P0155",
+        "TotalTask": 6,
+        "CompletedTask": 2
+    },
+    "2024-06-04": {
+        "planId": "P0156",
+        "TotalTask": 8,
+        "CompletedTask": 5
+    },
+    "2024-06-05": {
+        "planId": "P0157",
+        "TotalTask": 11,
+        "CompletedTask": 7
+    },
+    "2024-06-06": {
+        "planId": "P0158",
+        "TotalTask": 19,
+        "CompletedTask": 9
+    },
+    "2024-06-07": {
+        "planId": "P0159",
+        "TotalTask": 14,
+        "CompletedTask": 6
+    },
+    "2024-06-08": {
+        "planId": "P0160",
+        "TotalTask": 17,
+        "CompletedTask": 10
+    },
+    "2024-06-09": {
+        "planId": "P0161",
+        "TotalTask": 15,
+        "CompletedTask": 8
+    },
+    "2024-06-10": {
+        "planId": "P0162",
+        "TotalTask": 15,
+        "CompletedTask": 6
+    },
+    "2024-06-11": {
+        "planId": "P0163",
+        "TotalTask": 11,
+        "CompletedTask": 3
+    },
+    "2024-06-12": {
+        "planId": "P0164",
+        "TotalTask": 13,
+        "CompletedTask": 7
+    },
+    "2024-06-13": {
+        "planId": "P0165",
+        "TotalTask": 10,
+        "CompletedTask": 3
+    },
+    "2024-06-14": {
+        "planId": "P0166",
+        "TotalTask": 20,
+        "CompletedTask": 10
+    },
+    "2024-06-15": {
+        "planId": "P0167",
+        "TotalTask": 7,
+        "CompletedTask": 5
+    },
+    "2024-06-16": {
+        "planId": "P0168",
+        "TotalTask": 19,
+        "CompletedTask": 5
+    },
+    "2024-06-17": {
+        "planId": "P0169",
+        "TotalTask": 13,
+        "CompletedTask": 6
+    },
+    "2024-06-18": {
+        "planId": "P0170",
+        "TotalTask": 16,
+        "CompletedTask": 8
+    },
+    "2024-06-19": {
+        "planId": "P0171",
+        "TotalTask": 7,
+        "CompletedTask": 5
+    },
+    "2024-06-20": {
+        "planId": "P0172",
+        "TotalTask": 8,
+        "CompletedTask": 5
+    },
+    "2024-06-21": {
+        "planId": "P0173",
+        "TotalTask": 8,
+        "CompletedTask": 6
+    },
+    "2024-06-22": {
+        "planId": "P0174",
+        "TotalTask": 8,
+        "CompletedTask": 5
+    },
+    "2024-06-23": {
+        "planId": "P0175",
+        "TotalTask": 8,
+        "CompletedTask": 5
+    },
+    "2024-06-24": {
+        "planId": "P0176",
+        "TotalTask": 15,
+        "CompletedTask": 8
+    },
+    "2024-06-25": {
+        "planId": "P0177",
+        "TotalTask": 18,
+        "CompletedTask": 8
+    },
+    "2024-06-26": {
+        "planId": "P0178",
+        "TotalTask": 12,
+        "CompletedTask": 6
+    },
+    "2024-06-27": {
+        "planId": "P0179",
+        "TotalTask": 7,
+        "CompletedTask": 3
+    },
+    "2024-06-28": {
+        "planId": "P0180",
+        "TotalTask": 10,
+        "CompletedTask": 7
+    },
+    "2024-06-29": {
+        "planId": "P0181",
+        "TotalTask": 12,
+        "CompletedTask": 3
+    },
+    "2024-06-30": {
+        "planId": "P0182",
+        "TotalTask": 12,
+        "CompletedTask": 6
+    },
+    "2024-07-01": {
+        "planId": "P0183",
+        "TotalTask": 12,
+        "CompletedTask": 10
+    },
+    "2024-07-02": {
+        "planId": "P0184",
+        "TotalTask": 20,
+        "CompletedTask": 10
+    },
+    "2024-07-03": {
+        "planId": "P0185",
+        "TotalTask": 7,
+        "CompletedTask": 3
+    },
+    "2024-07-04": {
+        "planId": "P0186",
+        "TotalTask": 13,
+        "CompletedTask": 9
+    },
+    "2024-07-05": {
+        "planId": "P0187",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2024-07-06": {
+        "planId": "P0188",
+        "TotalTask": 10,
+        "CompletedTask": 3
+    },
+    "2024-07-07": {
+        "planId": "P0189",
+        "TotalTask": 14,
+        "CompletedTask": 7
+    },
+    "2024-07-08": {
+        "planId": "P0190",
+        "TotalTask": 19,
+        "CompletedTask": 9
+    },
+    "2024-07-09": {
+        "planId": "P0191",
+        "TotalTask": 10,
+        "CompletedTask": 7
+    },
+    "2024-07-10": {
+        "planId": "P0192",
+        "TotalTask": 8,
+        "CompletedTask": 6
+    },
+    "2024-07-11": {
+        "planId": "P0193",
+        "TotalTask": 12,
+        "CompletedTask": 4
+    },
+    "2024-07-12": {
+        "planId": "P0194",
+        "TotalTask": 20,
+        "CompletedTask": 11
+    },
+    "2024-07-13": {
+        "planId": "P0195",
+        "TotalTask": 13,
+        "CompletedTask": 4
+    },
+    "2024-07-14": {
+        "planId": "P0196",
+        "TotalTask": 10,
+        "CompletedTask": 6
+    },
+    "2024-07-15": {
+        "planId": "P0197",
+        "TotalTask": 9,
+        "CompletedTask": 5
+    },
+    "2024-07-16": {
+        "planId": "P0198",
+        "TotalTask": 7,
+        "CompletedTask": 2
+    },
+    "2024-07-17": {
+        "planId": "P0199",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2024-07-18": {
+        "planId": "P0200",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2024-07-19": {
+        "planId": "P0201",
+        "TotalTask": 7,
+        "CompletedTask": 3
+    },
+    "2024-07-20": {
+        "planId": "P0202",
+        "TotalTask": 7,
+        "CompletedTask": 3
+    },
+    "2024-07-21": {
+        "planId": "P0203",
+        "TotalTask": 9,
+        "CompletedTask": 5
+    },
+    "2024-07-22": {
+        "planId": "P0204",
+        "TotalTask": 10,
+        "CompletedTask": 7
+    },
+    "2024-07-23": {
+        "planId": "P0205",
+        "TotalTask": 12,
+        "CompletedTask": 6
+    },
+    "2024-07-24": {
+        "planId": "P0206",
+        "TotalTask": 14,
+        "CompletedTask": 5
+    },
+    "2024-07-25": {
+        "planId": "P0207",
+        "TotalTask": 12,
+        "CompletedTask": 5
+    },
+    "2024-07-26": {
+        "planId": "P0208",
+        "TotalTask": 5,
+        "CompletedTask": 4
+    },
+    "2024-07-27": {
+        "planId": "P0209",
+        "TotalTask": 10,
+        "CompletedTask": 4
+    },
+    "2024-07-28": {
+        "planId": "P0210",
+        "TotalTask": 11,
+        "CompletedTask": 6
+    },
+    "2024-07-29": {
+        "planId": "P0211",
+        "TotalTask": 6,
+        "CompletedTask": 3
+    },
+    "2024-07-30": {
+        "planId": "P0212",
+        "TotalTask": 11,
+        "CompletedTask": 5
+    },
+    "2024-07-31": {
+        "planId": "P0213",
+        "TotalTask": 11,
+        "CompletedTask": 6
+    },
+    "2024-08-01": {
+        "planId": "P0214",
+        "TotalTask": 15,
+        "CompletedTask": 5
+    },
+    "2024-08-02": {
+        "planId": "P0215",
+        "TotalTask": 19,
+        "CompletedTask": 9
+    },
+    "2024-08-03": {
+        "planId": "P0216",
+        "TotalTask": 10,
+        "CompletedTask": 7
+    },
+    "2024-08-04": {
+        "planId": "P0217",
+        "TotalTask": 14,
+        "CompletedTask": 9
+    },
+    "2024-08-05": {
+        "planId": "P0218",
+        "TotalTask": 9,
+        "CompletedTask": 1
+    },
+    "2024-08-06": {
+        "planId": "P0219",
+        "TotalTask": 8,
+        "CompletedTask": 3
+    },
+    "2024-08-07": {
+        "planId": "P0220",
+        "TotalTask": 9,
+        "CompletedTask": 3
+    },
+    "2024-08-08": {
+        "planId": "P0221",
+        "TotalTask": 9,
+        "CompletedTask": 5
+    },
+    "2024-08-09": {
+        "planId": "P0222",
+        "TotalTask": 16,
+        "CompletedTask": 10
+    },
+    "2024-08-10": {
+        "planId": "P0223",
+        "TotalTask": 6,
+        "CompletedTask": 3
+    },
+    "2024-08-11": {
+        "planId": "P0224",
+        "TotalTask": 8,
+        "CompletedTask": 3
+    },
+    "2024-08-12": {
+        "planId": "P0225",
+        "TotalTask": 17,
+        "CompletedTask": 7
+    },
+    "2024-08-13": {
+        "planId": "P0226",
+        "TotalTask": 6,
+        "CompletedTask": 4
+    },
+    "2024-08-14": {
+        "planId": "P0227",
+        "TotalTask": 19,
+        "CompletedTask": 9
+    },
+    "2024-08-15": {
+        "planId": "P0228",
+        "TotalTask": 15,
+        "CompletedTask": 7
+    },
+    "2024-08-16": {
+        "planId": "P0229",
+        "TotalTask": 18,
+        "CompletedTask": 7
+    },
+    "2024-08-17": {
+        "planId": "P0230",
+        "TotalTask": 10,
+        "CompletedTask": 3
+    },
+    "2024-08-18": {
+        "planId": "P0231",
+        "TotalTask": 5,
+        "CompletedTask": 4
+    },
+    "2024-08-19": {
+        "planId": "P0232",
+        "TotalTask": 8,
+        "CompletedTask": 5
+    },
+    "2024-08-20": {
+        "planId": "P0233",
+        "TotalTask": 16,
+        "CompletedTask": 7
+    },
+    "2024-08-21": {
+        "planId": "P0234",
+        "TotalTask": 9,
+        "CompletedTask": 5
+    },
+    "2024-08-22": {
+        "planId": "P0235",
+        "TotalTask": 18,
+        "CompletedTask": 9
+    },
+    "2024-08-23": {
+        "planId": "P0236",
+        "TotalTask": 16,
+        "CompletedTask": 7
+    },
+    "2024-08-24": {
+        "planId": "P0237",
+        "TotalTask": 8,
+        "CompletedTask": 4
+    },
+    "2024-08-25": {
+        "planId": "P0238",
+        "TotalTask": 7,
+        "CompletedTask": 4
+    },
+    "2024-08-26": {
+        "planId": "P0239",
+        "TotalTask": 10,
+        "CompletedTask": 7
+    },
+    "2024-08-27": {
+        "planId": "P0240",
+        "TotalTask": 5,
+        "CompletedTask": 1
+    },
+    "2024-08-28": {
+        "planId": "P0241",
+        "TotalTask": 9,
+        "CompletedTask": 3
+    },
+    "2024-08-29": {
+        "planId": "P0242",
+        "TotalTask": 12,
+        "CompletedTask": 5
+    },
+    "2024-08-30": {
+        "planId": "P0243",
+        "TotalTask": 12,
+        "CompletedTask": 8
+    },
+    "2024-08-31": {
+        "planId": "P0244",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2024-09-01": {
+        "planId": "P0245",
+        "TotalTask": 16,
+        "CompletedTask": 15
+    },
+    "2024-09-02": {
+        "planId": "P0246",
+        "TotalTask": 12,
+        "CompletedTask": 10
+    },
+    "2024-09-03": {
+        "planId": "P0247",
+        "TotalTask": 8,
+        "CompletedTask": 3
+    },
+    "2024-09-04": {
+        "planId": "P0248",
+        "TotalTask": 8,
+        "CompletedTask": 3
+    },
+    "2024-09-05": {
+        "planId": "P0249",
+        "TotalTask": 6,
+        "CompletedTask": 3
+    },
+    "2024-09-06": {
+        "planId": "P0250",
+        "TotalTask": 10,
+        "CompletedTask": 4
+    },
+    "2024-09-07": {
+        "planId": "P0251",
+        "TotalTask": 14,
+        "CompletedTask": 10
+    },
+    "2024-09-08": {
+        "planId": "P0252",
+        "TotalTask": 14,
+        "CompletedTask": 8
+    },
+    "2024-09-09": {
+        "planId": "P0253",
+        "TotalTask": 5,
+        "CompletedTask": 2
+    },
+    "2024-09-10": {
+        "planId": "P0254",
+        "TotalTask": 11,
+        "CompletedTask": 4
+    },
+    "2024-09-11": {
+        "planId": "P0255",
+        "TotalTask": 19,
+        "CompletedTask": 11
+    },
+    "2024-09-12": {
+        "planId": "P0256",
+        "TotalTask": 8,
+        "CompletedTask": 2
+    },
+    "2024-09-13": {
+        "planId": "P0257",
+        "TotalTask": 9,
+        "CompletedTask": 5
+    },
+    "2024-09-14": {
+        "planId": "P0258",
+        "TotalTask": 18,
+        "CompletedTask": 11
+    },
+    "2024-09-15": {
+        "planId": "P0259",
+        "TotalTask": 20,
+        "CompletedTask": 13
+    },
+    "2024-09-16": {
+        "planId": "P0260",
+        "TotalTask": 8,
+        "CompletedTask": 6
+    },
+    "2024-09-17": {
+        "planId": "P0261",
+        "TotalTask": 19,
+        "CompletedTask": 8
+    },
+    "2024-09-18": {
+        "planId": "P0262",
+        "TotalTask": 13,
+        "CompletedTask": 10
+    },
+    "2024-09-19": {
+        "planId": "P0263",
+        "TotalTask": 16,
+        "CompletedTask": 8
+    },
+    "2024-09-20": {
+        "planId": "P0264",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2024-09-21": {
+        "planId": "P0265",
+        "TotalTask": 16,
+        "CompletedTask": 9
+    },
+    "2024-09-22": {
+        "planId": "P0266",
+        "TotalTask": 19,
+        "CompletedTask": 8
+    },
+    "2024-09-23": {
+        "planId": "P0267",
+        "TotalTask": 14,
+        "CompletedTask": 6
+    },
+    "2024-09-24": {
+        "planId": "P0268",
+        "TotalTask": 19,
+        "CompletedTask": 10
+    },
+    "2024-09-25": {
+        "planId": "P0269",
+        "TotalTask": 9,
+        "CompletedTask": 1
+    },
+    "2024-09-26": {
+        "planId": "P0270",
+        "TotalTask": 9,
+        "CompletedTask": 8
+    },
+    "2024-09-27": {
+        "planId": "P0271",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2024-09-28": {
+        "planId": "P0272",
+        "TotalTask": 6,
+        "CompletedTask": 3
+    },
+    "2024-09-29": {
+        "planId": "P0273",
+        "TotalTask": 6,
+        "CompletedTask": 1
+    },
+    "2024-09-30": {
+        "planId": "P0274",
+        "TotalTask": 18,
+        "CompletedTask": 6
+    },
+    "2024-10-01": {
+        "planId": "P0275",
+        "TotalTask": 16,
+        "CompletedTask": 8
+    },
+    "2024-10-02": {
+        "planId": "P0276",
+        "TotalTask": 6,
+        "CompletedTask": 2
+    },
+    "2024-10-03": {
+        "planId": "P0277",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2024-10-04": {
+        "planId": "P0278",
+        "TotalTask": 15,
+        "CompletedTask": 6
+    },
+    "2024-10-05": {
+        "planId": "P0279",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2024-10-06": {
+        "planId": "P0280",
+        "TotalTask": 16,
+        "CompletedTask": 8
+    },
+    "2024-10-07": {
+        "planId": "P0281",
+        "TotalTask": 8,
+        "CompletedTask": 5
+    },
+    "2024-10-08": {
+        "planId": "P0282",
+        "TotalTask": 20,
+        "CompletedTask": 11
+    },
+    "2024-10-09": {
+        "planId": "P0283",
+        "TotalTask": 7,
+        "CompletedTask": 3
+    },
+    "2024-10-10": {
+        "planId": "P0284",
+        "TotalTask": 17,
+        "CompletedTask": 9
+    },
+    "2024-10-11": {
+        "planId": "P0285",
+        "TotalTask": 15,
+        "CompletedTask": 4
+    },
+    "2024-10-12": {
+        "planId": "P0286",
+        "TotalTask": 10,
+        "CompletedTask": 6
+    },
+    "2024-10-13": {
+        "planId": "P0287",
+        "TotalTask": 9,
+        "CompletedTask": 5
+    },
+    "2024-10-14": {
+        "planId": "P0288",
+        "TotalTask": 14,
+        "CompletedTask": 3
+    },
+    "2024-10-15": {
+        "planId": "P0289",
+        "TotalTask": 14,
+        "CompletedTask": 8
+    },
+    "2024-10-16": {
+        "planId": "P0290",
+        "TotalTask": 12,
+        "CompletedTask": 8
+    },
+    "2024-10-17": {
+        "planId": "P0291",
+        "TotalTask": 14,
+        "CompletedTask": 8
+    },
+    "2024-10-18": {
+        "planId": "P0292",
+        "TotalTask": 14,
+        "CompletedTask": 9
+    },
+    "2024-10-19": {
+        "planId": "P0293",
+        "TotalTask": 13,
+        "CompletedTask": 7
+    },
+    "2024-10-20": {
+        "planId": "P0294",
+        "TotalTask": 8,
+        "CompletedTask": 5
+    },
+    "2024-10-21": {
+        "planId": "P0295",
+        "TotalTask": 15,
+        "CompletedTask": 8
+    },
+    "2024-10-22": {
+        "planId": "P0296",
+        "TotalTask": 6,
+        "CompletedTask": 3
+    },
+    "2024-10-23": {
+        "planId": "P0297",
+        "TotalTask": 15,
+        "CompletedTask": 7
+    },
+    "2024-10-24": {
+        "planId": "P0298",
+        "TotalTask": 15,
+        "CompletedTask": 8
+    },
+    "2024-10-25": {
+        "planId": "P0299",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2024-10-26": {
+        "planId": "P0300",
+        "TotalTask": 19,
+        "CompletedTask": 8
+    },
+    "2024-10-27": {
+        "planId": "P0301",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2024-10-28": {
+        "planId": "P0302",
+        "TotalTask": 5,
+        "CompletedTask": 4
+    },
+    "2024-10-29": {
+        "planId": "P0303",
+        "TotalTask": 8,
+        "CompletedTask": 4
+    },
+    "2024-10-30": {
+        "planId": "P0304",
+        "TotalTask": 16,
+        "CompletedTask": 8
+    },
+    "2024-10-31": {
+        "planId": "P0305",
+        "TotalTask": 11,
+        "CompletedTask": 8
+    },
+    "2024-11-01": {
+        "planId": "P0306",
+        "TotalTask": 16,
+        "CompletedTask": 7
+    },
+    "2024-11-02": {
+        "planId": "P0307",
+        "TotalTask": 14,
+        "CompletedTask": 6
+    },
+    "2024-11-03": {
+        "planId": "P0308",
+        "TotalTask": 19,
+        "CompletedTask": 8
+    },
+    "2024-11-04": {
+        "planId": "P0309",
+        "TotalTask": 18,
+        "CompletedTask": 7
+    },
+    "2024-11-05": {
+        "planId": "P0310",
+        "TotalTask": 14,
+        "CompletedTask": 11
+    },
+    "2024-11-06": {
+        "planId": "P0311",
+        "TotalTask": 12,
+        "CompletedTask": 3
+    },
+    "2024-11-07": {
+        "planId": "P0312",
+        "TotalTask": 9,
+        "CompletedTask": 6
+    },
+    "2024-11-08": {
+        "planId": "P0313",
+        "TotalTask": 12,
+        "CompletedTask": 4
+    },
+    "2024-11-09": {
+        "planId": "P0314",
+        "TotalTask": 10,
+        "CompletedTask": 7
+    },
+    "2024-11-10": {
+        "planId": "P0315",
+        "TotalTask": 17,
+        "CompletedTask": 12
+    },
+    "2024-11-11": {
+        "planId": "P0316",
+        "TotalTask": 13,
+        "CompletedTask": 7
+    },
+    "2024-11-12": {
+        "planId": "P0317",
+        "TotalTask": 19,
+        "CompletedTask": 11
+    },
+    "2024-11-13": {
+        "planId": "P0318",
+        "TotalTask": 15,
+        "CompletedTask": 9
+    },
+    "2024-11-14": {
+        "planId": "P0319",
+        "TotalTask": 11,
+        "CompletedTask": 5
+    },
+    "2024-11-15": {
+        "planId": "P0320",
+        "TotalTask": 18,
+        "CompletedTask": 8
+    },
+    "2024-11-16": {
+        "planId": "P0321",
+        "TotalTask": 8,
+        "CompletedTask": 4
+    },
+    "2024-11-17": {
+        "planId": "P0322",
+        "TotalTask": 16,
+        "CompletedTask": 6
+    },
+    "2024-11-18": {
+        "planId": "P0323",
+        "TotalTask": 16,
+        "CompletedTask": 9
+    },
+    "2024-11-19": {
+        "planId": "P0324",
+        "TotalTask": 13,
+        "CompletedTask": 8
+    },
+    "2024-11-20": {
+        "planId": "P0325",
+        "TotalTask": 7,
+        "CompletedTask": 3
+    },
+    "2024-11-21": {
+        "planId": "P0326",
+        "TotalTask": 10,
+        "CompletedTask": 4
+    },
+    "2024-11-22": {
+        "planId": "P0327",
+        "TotalTask": 9,
+        "CompletedTask": 6
+    },
+    "2024-11-23": {
+        "planId": "P0328",
+        "TotalTask": 9,
+        "CompletedTask": 4
+    },
+    "2024-11-24": {
+        "planId": "P0329",
+        "TotalTask": 16,
+        "CompletedTask": 8
+    },
+    "2024-11-25": {
+        "planId": "P0330",
+        "TotalTask": 5,
+        "CompletedTask": 4
+    },
+    "2024-11-26": {
+        "planId": "P0331",
+        "TotalTask": 18,
+        "CompletedTask": 9
+    },
+    "2024-11-27": {
+        "planId": "P0332",
+        "TotalTask": 18,
+        "CompletedTask": 7
+    },
+    "2024-11-28": {
+        "planId": "P0333",
+        "TotalTask": 6,
+        "CompletedTask": 4
+    },
+    "2024-11-29": {
+        "planId": "P0334",
+        "TotalTask": 11,
+        "CompletedTask": 6
+    },
+    "2024-11-30": {
+        "planId": "P0335",
+        "TotalTask": 8,
+        "CompletedTask": 5
+    },
+    "2024-12-01": {
+        "planId": "P0336",
+        "TotalTask": 5,
+        "CompletedTask": 1
+    },
+    "2024-12-02": {
+        "planId": "P0337",
+        "TotalTask": 13,
+        "CompletedTask": 5
+    },
+    "2024-12-03": {
+        "planId": "P0338",
+        "TotalTask": 13,
+        "CompletedTask": 8
+    },
+    "2024-12-04": {
+        "planId": "P0339",
+        "TotalTask": 20,
+        "CompletedTask": 12
+    },
+    "2024-12-05": {
+        "planId": "P0340",
+        "TotalTask": 14,
+        "CompletedTask": 8
+    },
+    "2024-12-06": {
+        "planId": "P0341",
+        "TotalTask": 12,
+        "CompletedTask": 5
+    },
+    "2024-12-07": {
+        "planId": "P0342",
+        "TotalTask": 20,
+        "CompletedTask": 11
+    },
+    "2024-12-08": {
+        "planId": "P0343",
+        "TotalTask": 16,
+        "CompletedTask": 8
+    },
+    "2024-12-09": {
+        "planId": "P0344",
+        "TotalTask": 17,
+        "CompletedTask": 5
+    },
+    "2024-12-10": {
+        "planId": "P0345",
+        "TotalTask": 19,
+        "CompletedTask": 7
+    },
+    "2024-12-11": {
+        "planId": "P0346",
+        "TotalTask": 11,
+        "CompletedTask": 10
+    },
+    "2024-12-12": {
+        "planId": "P0347",
+        "TotalTask": 14,
+        "CompletedTask": 10
+    },
+    "2024-12-13": {
+        "planId": "P0348",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2024-12-14": {
+        "planId": "P0349",
+        "TotalTask": 6,
+        "CompletedTask": 3
+    },
+    "2024-12-15": {
+        "planId": "P0350",
+        "TotalTask": 8,
+        "CompletedTask": 4
+    },
+    "2024-12-16": {
+        "planId": "P0351",
+        "TotalTask": 16,
+        "CompletedTask": 7
+    },
+    "2024-12-17": {
+        "planId": "P0352",
+        "TotalTask": 20,
+        "CompletedTask": 8
+    },
+    "2024-12-18": {
+        "planId": "P0353",
+        "TotalTask": 19,
+        "CompletedTask": 11
+    },
+    "2024-12-19": {
+        "planId": "P0354",
+        "TotalTask": 18,
+        "CompletedTask": 8
+    },
+    "2024-12-20": {
+        "planId": "P0355",
+        "TotalTask": 15,
+        "CompletedTask": 7
+    },
+    "2024-12-21": {
+        "planId": "P0356",
+        "TotalTask": 7,
+        "CompletedTask": 4
+    },
+    "2024-12-22": {
+        "planId": "P0357",
+        "TotalTask": 16,
+        "CompletedTask": 9
+    },
+    "2024-12-23": {
+        "planId": "P0358",
+        "TotalTask": 13,
+        "CompletedTask": 9
+    },
+    "2024-12-24": {
+        "planId": "P0359",
+        "TotalTask": 17,
+        "CompletedTask": 4
+    },
+    "2024-12-25": {
+        "planId": "P0360",
+        "TotalTask": 15,
+        "CompletedTask": 8
+    },
+    "2024-12-26": {
+        "planId": "P0361",
+        "TotalTask": 12,
+        "CompletedTask": 4
+    },
+    "2024-12-27": {
+        "planId": "P0362",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2024-12-28": {
+        "planId": "P0363",
+        "TotalTask": 18,
+        "CompletedTask": 10
+    },
+    "2024-12-29": {
+        "planId": "P0364",
+        "TotalTask": 10,
+        "CompletedTask": 7
+    },
+    "2024-12-30": {
+        "planId": "P0365",
+        "TotalTask": 18,
+        "CompletedTask": 9
+    },
+    "2024-12-31": {
+        "planId": "P0366",
+        "TotalTask": 6,
+        "CompletedTask": 4
+    },
+    "2025-01-01": {
+        "planId": "P0367",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2025-01-02": {
+        "planId": "P0368",
+        "TotalTask": 12,
+        "CompletedTask": 6
+    },
+    "2025-01-03": {
+        "planId": "P0369",
+        "TotalTask": 15,
+        "CompletedTask": 6
+    },
+    "2025-01-04": {
+        "planId": "P0370",
+        "TotalTask": 11,
+        "CompletedTask": 3
+    },
+    "2025-01-05": {
+        "planId": "P0371",
+        "TotalTask": 10,
+        "CompletedTask": 3
+    },
+    "2025-01-06": {
+        "planId": "P0372",
+        "TotalTask": 12,
+        "CompletedTask": 6
+    },
+    "2025-01-07": {
+        "planId": "P0373",
+        "TotalTask": 8,
+        "CompletedTask": 5
+    },
+    "2025-01-08": {
+        "planId": "P0374",
+        "TotalTask": 14,
+        "CompletedTask": 6
+    },
+    "2025-01-09": {
+        "planId": "P0375",
+        "TotalTask": 7,
+        "CompletedTask": 6
+    },
+    "2025-01-10": {
+        "planId": "P0376",
+        "TotalTask": 7,
+        "CompletedTask": 4
+    },
+    "2025-01-11": {
+        "planId": "P0377",
+        "TotalTask": 11,
+        "CompletedTask": 7
+    },
+    "2025-01-12": {
+        "planId": "P0378",
+        "TotalTask": 16,
+        "CompletedTask": 9
+    },
+    "2025-01-13": {
+        "planId": "P0379",
+        "TotalTask": 11,
+        "CompletedTask": 4
+    },
+    "2025-01-14": {
+        "planId": "P0380",
+        "TotalTask": 19,
+        "CompletedTask": 10
+    },
+    "2025-01-15": {
+        "planId": "P0381",
+        "TotalTask": 18,
+        "CompletedTask": 9
+    },
+    "2025-01-16": {
+        "planId": "P0382",
+        "TotalTask": 11,
+        "CompletedTask": 7
+    },
+    "2025-01-17": {
+        "planId": "P0383",
+        "TotalTask": 13,
+        "CompletedTask": 6
+    },
+    "2025-01-18": {
+        "planId": "P0384",
+        "TotalTask": 7,
+        "CompletedTask": 2
+    },
+    "2025-01-19": {
+        "planId": "P0385",
+        "TotalTask": 18,
+        "CompletedTask": 12
+    },
+    "2025-01-20": {
+        "planId": "P0386",
+        "TotalTask": 9,
+        "CompletedTask": 3
+    },
+    "2025-01-21": {
+        "planId": "P0387",
+        "TotalTask": 9,
+        "CompletedTask": 3
+    },
+    "2025-01-22": {
+        "planId": "P0388",
+        "TotalTask": 7,
+        "CompletedTask": 3
+    },
+    "2025-01-23": {
+        "planId": "P0389",
+        "TotalTask": 17,
+        "CompletedTask": 11
+    },
+    "2025-01-24": {
+        "planId": "P0390",
+        "TotalTask": 8,
+        "CompletedTask": 5
+    },
+    "2025-01-25": {
+        "planId": "P0391",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2025-01-26": {
+        "planId": "P0392",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2025-01-27": {
+        "planId": "P0393",
+        "TotalTask": 15,
+        "CompletedTask": 7
+    },
+    "2025-01-28": {
+        "planId": "P0394",
+        "TotalTask": 17,
+        "CompletedTask": 8
+    },
+    "2025-01-29": {
+        "planId": "P0395",
+        "TotalTask": 14,
+        "CompletedTask": 4
+    },
+    "2025-01-30": {
+        "planId": "P0396",
+        "TotalTask": 14,
+        "CompletedTask": 6
+    },
+    "2025-01-31": {
+        "planId": "P0397",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2025-02-01": {
+        "planId": "P0398",
+        "TotalTask": 15,
+        "CompletedTask": 5
+    },
+    "2025-02-02": {
+        "planId": "P0399",
+        "TotalTask": 10,
+        "CompletedTask": 6
+    },
+    "2025-02-03": {
+        "planId": "P0400",
+        "TotalTask": 11,
+        "CompletedTask": 5
+    },
+    "2025-02-04": {
+        "planId": "P0401",
+        "TotalTask": 6,
+        "CompletedTask": 2
+    },
+    "2025-02-05": {
+        "planId": "P0402",
+        "TotalTask": 14,
+        "CompletedTask": 7
+    },
+    "2025-02-06": {
+        "planId": "P0403",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2025-02-07": {
+        "planId": "P0404",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2025-02-08": {
+        "planId": "P0405",
+        "TotalTask": 9,
+        "CompletedTask": 4
+    },
+    "2025-02-09": {
+        "planId": "P0406",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2025-02-10": {
+        "planId": "P0407",
+        "TotalTask": 15,
+        "CompletedTask": 8
+    },
+    "2025-02-11": {
+        "planId": "P0408",
+        "TotalTask": 15,
+        "CompletedTask": 9
+    },
+    "2025-02-12": {
+        "planId": "P0409",
+        "TotalTask": 5,
+        "CompletedTask": 2
+    },
+    "2025-02-13": {
+        "planId": "P0410",
+        "TotalTask": 16,
+        "CompletedTask": 6
+    },
+    "2025-02-14": {
+        "planId": "P0411",
+        "TotalTask": 14,
+        "CompletedTask": 2
+    },
+    "2025-02-15": {
+        "planId": "P0412",
+        "TotalTask": 11,
+        "CompletedTask": 4
+    },
+    "2025-02-16": {
+        "planId": "P0413",
+        "TotalTask": 13,
+        "CompletedTask": 7
+    },
+    "2025-02-17": {
+        "planId": "P0414",
+        "TotalTask": 19,
+        "CompletedTask": 12
+    },
+    "2025-02-18": {
+        "planId": "P0415",
+        "TotalTask": 13,
+        "CompletedTask": 6
+    },
+    "2025-02-19": {
+        "planId": "P0416",
+        "TotalTask": 12,
+        "CompletedTask": 6
+    },
+    "2025-02-20": {
+        "planId": "P0417",
+        "TotalTask": 12,
+        "CompletedTask": 6
+    },
+    "2025-02-21": {
+        "planId": "P0418",
+        "TotalTask": 19,
+        "CompletedTask": 9
+    },
+    "2025-02-22": {
+        "planId": "P0419",
+        "TotalTask": 14,
+        "CompletedTask": 7
+    },
+    "2025-02-23": {
+        "planId": "P0420",
+        "TotalTask": 15,
+        "CompletedTask": 7
+    },
+    "2025-02-24": {
+        "planId": "P0421",
+        "TotalTask": 9,
+        "CompletedTask": 4
+    },
+    "2025-02-25": {
+        "planId": "P0422",
+        "TotalTask": 8,
+        "CompletedTask": 4
+    },
+    "2025-02-26": {
+        "planId": "P0423",
+        "TotalTask": 11,
+        "CompletedTask": 4
+    },
+    "2025-02-27": {
+        "planId": "P0424",
+        "TotalTask": 9,
+        "CompletedTask": 2
+    },
+    "2025-02-28": {
+        "planId": "P0425",
+        "TotalTask": 5,
+        "CompletedTask": 2
+    },
+    "2025-03-01": {
+        "planId": "P0426",
+        "TotalTask": 11,
+        "CompletedTask": 7
+    },
+    "2025-03-02": {
+        "planId": "P0427",
+        "TotalTask": 5,
+        "CompletedTask": 2
+    },
+    "2025-03-03": {
+        "planId": "P0428",
+        "TotalTask": 14,
+        "CompletedTask": 6
+    },
+    "2025-03-04": {
+        "planId": "P0429",
+        "TotalTask": 9,
+        "CompletedTask": 3
+    },
+    "2025-03-05": {
+        "planId": "P0430",
+        "TotalTask": 16,
+        "CompletedTask": 11
+    },
+    "2025-03-06": {
+        "planId": "P0431",
+        "TotalTask": 15,
+        "CompletedTask": 7
+    },
+    "2025-03-07": {
+        "planId": "P0432",
+        "TotalTask": 15,
+        "CompletedTask": 7
+    },
+    "2025-03-08": {
+        "planId": "P0433",
+        "TotalTask": 15,
+        "CompletedTask": 7
+    },
+    "2025-03-09": {
+        "planId": "P0434",
+        "TotalTask": 12,
+        "CompletedTask": 7
+    },
+    "2025-03-10": {
+        "planId": "P0435",
+        "TotalTask": 13,
+        "CompletedTask": 8
+    },
+    "2025-03-11": {
+        "planId": "P0436",
+        "TotalTask": 6,
+        "CompletedTask": 4
+    },
+    "2025-03-12": {
+        "planId": "P0437",
+        "TotalTask": 5,
+        "CompletedTask": 1
+    },
+    "2025-03-13": {
+        "planId": "P0438",
+        "TotalTask": 6,
+        "CompletedTask": 3
+    },
+    "2025-03-14": {
+        "planId": "P0439",
+        "TotalTask": 5,
+        "CompletedTask": 0
+    },
+    "2025-03-15": {
+        "planId": "P0440",
+        "TotalTask": 13,
+        "CompletedTask": 8
+    },
+    "2025-03-16": {
+        "planId": "P0441",
+        "TotalTask": 8,
+        "CompletedTask": 6
+    },
+    "2025-03-17": {
+        "planId": "P0442",
+        "TotalTask": 17,
+        "CompletedTask": 8
+    },
+    "2025-03-18": {
+        "planId": "P0443",
+        "TotalTask": 8,
+        "CompletedTask": 3
+    },
+    "2025-03-19": {
+        "planId": "P0444",
+        "TotalTask": 19,
+        "CompletedTask": 11
+    },
+    "2025-03-20": {
+        "planId": "P0445",
+        "TotalTask": 16,
+        "CompletedTask": 8
+    },
+    "2025-03-21": {
+        "planId": "P0446",
+        "TotalTask": 7,
+        "CompletedTask": 5
+    },
+    "2025-03-22": {
+        "planId": "P0447",
+        "TotalTask": 9,
+        "CompletedTask": 6
+    },
+    "2025-03-23": {
+        "planId": "P0448",
+        "TotalTask": 6,
+        "CompletedTask": 2
+    },
+    "2025-03-24": {
+        "planId": "P0449",
+        "TotalTask": 17,
+        "CompletedTask": 8
+    },
+    "2025-03-25": {
+        "planId": "P0450",
+        "TotalTask": 17,
+        "CompletedTask": 10
+    },
+    "2025-03-26": {
+        "planId": "P0451",
+        "TotalTask": 11,
+        "CompletedTask": 6
+    },
+    "2025-03-27": {
+        "planId": "P0452",
+        "TotalTask": 16,
+        "CompletedTask": 10
+    },
+    "2025-03-28": {
+        "planId": "P0453",
+        "TotalTask": 5,
+        "CompletedTask": 4
+    },
+    "2025-03-29": {
+        "planId": "P0454",
+        "TotalTask": 6,
+        "CompletedTask": 5
+    },
+    "2025-03-30": {
+        "planId": "P0455",
+        "TotalTask": 6,
+        "CompletedTask": 1
+    },
+    "2025-03-31": {
+        "planId": "P0456",
+        "TotalTask": 12,
+        "CompletedTask": 5
+    },
+    "2025-04-01": {
+        "planId": "P0457",
+        "TotalTask": 5,
+        "CompletedTask": 4
+    },
+    "2025-04-02": {
+        "planId": "P0458",
+        "TotalTask": 16,
+        "CompletedTask": 10
+    },
+    "2025-04-03": {
+        "planId": "P0459",
+        "TotalTask": 20,
+        "CompletedTask": 13
+    },
+    "2025-04-04": {
+        "planId": "P0460",
+        "TotalTask": 17,
+        "CompletedTask": 9
+    },
+    "2025-04-05": {
+        "planId": "P0461",
+        "TotalTask": 18,
+        "CompletedTask": 11
+    },
+    "2025-04-06": {
+        "planId": "P0462",
+        "TotalTask": 10,
+        "CompletedTask": 4
+    },
+    "2025-04-07": {
+        "planId": "P0463",
+        "TotalTask": 12,
+        "CompletedTask": 4
+    },
+    "2025-04-08": {
+        "planId": "P0464",
+        "TotalTask": 14,
+        "CompletedTask": 6
+    },
+    "2025-04-09": {
+        "planId": "P0465",
+        "TotalTask": 6,
+        "CompletedTask": 6
+    },
+    "2025-04-10": {
+        "planId": "P0466",
+        "TotalTask": 9,
+        "CompletedTask": 7
+    },
+    "2025-04-11": {
+        "planId": "P0467",
+        "TotalTask": 8,
+        "CompletedTask": 2
+    },
+    "2025-04-12": {
+        "planId": "P0468",
+        "TotalTask": 19,
+        "CompletedTask": 10
+    },
+    "2025-04-13": {
+        "planId": "P0469",
+        "TotalTask": 13,
+        "CompletedTask": 7
+    },
+    "2025-04-14": {
+        "planId": "P0470",
+        "TotalTask": 8,
+        "CompletedTask": 2
+    },
+    "2025-04-15": {
+        "planId": "P0471",
+        "TotalTask": 18,
+        "CompletedTask": 8
+    },
+    "2025-04-16": {
+        "planId": "P0472",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2025-04-17": {
+        "planId": "P0473",
+        "TotalTask": 20,
+        "CompletedTask": 13
+    },
+    "2025-04-18": {
+        "planId": "P0474",
+        "TotalTask": 18,
+        "CompletedTask": 12
+    },
+    "2025-04-19": {
+        "planId": "P0475",
+        "TotalTask": 12,
+        "CompletedTask": 9
+    },
+    "2025-04-20": {
+        "planId": "P0476",
+        "TotalTask": 6,
+        "CompletedTask": 3
+    },
+    "2025-04-21": {
+        "planId": "P0477",
+        "TotalTask": 8,
+        "CompletedTask": 5
+    },
+    "2025-04-22": {
+        "planId": "P0478",
+        "TotalTask": 7,
+        "CompletedTask": 4
+    },
+    "2025-04-23": {
+        "planId": "P0479",
+        "TotalTask": 20,
+        "CompletedTask": 11
+    },
+    "2025-04-24": {
+        "planId": "P0480",
+        "TotalTask": 15,
+        "CompletedTask": 5
+    },
+    "2025-04-25": {
+        "planId": "P0481",
+        "TotalTask": 6,
+        "CompletedTask": 2
+    },
+    "2025-04-26": {
+        "planId": "P0482",
+        "TotalTask": 8,
+        "CompletedTask": 4
+    },
+    "2025-04-27": {
+        "planId": "P0483",
+        "TotalTask": 10,
+        "CompletedTask": 7
+    },
+    "2025-04-28": {
+        "planId": "P0484",
+        "TotalTask": 5,
+        "CompletedTask": 0
+    },
+    "2025-04-29": {
+        "planId": "P0485",
+        "TotalTask": 20,
+        "CompletedTask": 12
+    },
+    "2025-04-30": {
+        "planId": "P0486",
+        "TotalTask": 13,
+        "CompletedTask": 6
+    },
+    "2025-05-01": {
+        "planId": "P0487",
+        "TotalTask": 11,
+        "CompletedTask": 6
+    },
+    "2025-05-02": {
+        "planId": "P0488",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2025-05-03": {
+        "planId": "P0489",
+        "TotalTask": 16,
+        "CompletedTask": 5
+    },
+    "2025-05-04": {
+        "planId": "P0490",
+        "TotalTask": 12,
+        "CompletedTask": 6
+    },
+    "2025-05-05": {
+        "planId": "P0491",
+        "TotalTask": 20,
+        "CompletedTask": 11
+    },
+    "2025-05-06": {
+        "planId": "P0492",
+        "TotalTask": 7,
+        "CompletedTask": 4
+    },
+    "2025-05-07": {
+        "planId": "P0493",
+        "TotalTask": 5,
+        "CompletedTask": 2
+    },
+    "2025-05-08": {
+        "planId": "P0494",
+        "TotalTask": 7,
+        "CompletedTask": 3
+    },
+    "2025-05-09": {
+        "planId": "P0495",
+        "TotalTask": 8,
+        "CompletedTask": 1
+    },
+    "2025-05-10": {
+        "planId": "P0496",
+        "TotalTask": 14,
+        "CompletedTask": 8
+    },
+    "2025-05-11": {
+        "planId": "P0497",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2025-05-12": {
+        "planId": "P0498",
+        "TotalTask": 20,
+        "CompletedTask": 11
+    },
+    "2025-05-13": {
+        "planId": "P0499",
+        "TotalTask": 15,
+        "CompletedTask": 6
+    },
+    "2025-05-14": {
+        "planId": "P0500",
+        "TotalTask": 10,
+        "CompletedTask": 4
+    },
+    "2025-05-15": {
+        "planId": "P0501",
+        "TotalTask": 15,
+        "CompletedTask": 7
+    },
+    "2025-05-16": {
+        "planId": "P0502",
+        "TotalTask": 20,
+        "CompletedTask": 6
+    },
+    "2025-05-17": {
+        "planId": "P0503",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2025-05-18": {
+        "planId": "P0504",
+        "TotalTask": 6,
+        "CompletedTask": 2
+    },
+    "2025-05-19": {
+        "planId": "P0505",
+        "TotalTask": 7,
+        "CompletedTask": 3
+    },
+    "2025-05-20": {
+        "planId": "P0506",
+        "TotalTask": 20,
+        "CompletedTask": 10
+    },
+    "2025-05-21": {
+        "planId": "P0507",
+        "TotalTask": 18,
+        "CompletedTask": 7
+    },
+    "2025-05-22": {
+        "planId": "P0508",
+        "TotalTask": 10,
+        "CompletedTask": 4
+    },
+    "2025-05-23": {
+        "planId": "P0509",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2025-05-24": {
+        "planId": "P0510",
+        "TotalTask": 17,
+        "CompletedTask": 10
+    },
+    "2025-05-25": {
+        "planId": "P0511",
+        "TotalTask": 13,
+        "CompletedTask": 7
+    },
+    "2025-05-26": {
+        "planId": "P0512",
+        "TotalTask": 15,
+        "CompletedTask": 10
+    },
+    "2025-05-27": {
+        "planId": "P0513",
+        "TotalTask": 17,
+        "CompletedTask": 8
+    },
+    "2025-05-28": {
+        "planId": "P0514",
+        "TotalTask": 16,
+        "CompletedTask": 8
+    },
+    "2025-05-29": {
+        "planId": "P0515",
+        "TotalTask": 6,
+        "CompletedTask": 3
+    },
+    "2025-05-30": {
+        "planId": "P0516",
+        "TotalTask": 12,
+        "CompletedTask": 5
+    },
+    "2025-05-31": {
+        "planId": "P0517",
+        "TotalTask": 6,
+        "CompletedTask": 4
+    },
+    "2025-06-01": {
+        "planId": "P0518",
+        "TotalTask": 14,
+        "CompletedTask": 5
+    },
+    "2025-06-02": {
+        "planId": "P0519",
+        "TotalTask": 17,
+        "CompletedTask": 10
+    },
+    "2025-06-03": {
+        "planId": "P0520",
+        "TotalTask": 13,
+        "CompletedTask": 7
+    },
+    "2025-06-04": {
+        "planId": "P0521",
+        "TotalTask": 8,
+        "CompletedTask": 6
+    },
+    "2025-06-05": {
+        "planId": "P0522",
+        "TotalTask": 10,
+        "CompletedTask": 6
+    },
+    "2025-06-06": {
+        "planId": "P0523",
+        "TotalTask": 20,
+        "CompletedTask": 12
+    },
+    "2025-06-07": {
+        "planId": "P0524",
+        "TotalTask": 15,
+        "CompletedTask": 7
+    },
+    "2025-06-08": {
+        "planId": "P0525",
+        "TotalTask": 7,
+        "CompletedTask": 4
+    },
+    "2025-06-09": {
+        "planId": "P0526",
+        "TotalTask": 7,
+        "CompletedTask": 4
+    },
+    "2025-06-10": {
+        "planId": "P0527",
+        "TotalTask": 16,
+        "CompletedTask": 11
+    },
+    "2025-06-11": {
+        "planId": "P0528",
+        "TotalTask": 11,
+        "CompletedTask": 9
+    },
+    "2025-06-12": {
+        "planId": "P0529",
+        "TotalTask": 13,
+        "CompletedTask": 6
+    },
+    "2025-06-13": {
+        "planId": "P0530",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2025-06-14": {
+        "planId": "P0531",
+        "TotalTask": 8,
+        "CompletedTask": 0
+    },
+    "2025-06-15": {
+        "planId": "P0532",
+        "TotalTask": 16,
+        "CompletedTask": 7
+    },
+    "2025-06-16": {
+        "planId": "P0533",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2025-06-17": {
+        "planId": "P0534",
+        "TotalTask": 17,
+        "CompletedTask": 7
+    },
+    "2025-06-18": {
+        "planId": "P0535",
+        "TotalTask": 18,
+        "CompletedTask": 8
+    },
+    "2025-06-19": {
+        "planId": "P0536",
+        "TotalTask": 19,
+        "CompletedTask": 11
+    },
+    "2025-06-20": {
+        "planId": "P0537",
+        "TotalTask": 13,
+        "CompletedTask": 10
+    },
+    "2025-06-21": {
+        "planId": "P0538",
+        "TotalTask": 8,
+        "CompletedTask": 5
+    },
+    "2025-06-22": {
+        "planId": "P0539",
+        "TotalTask": 18,
+        "CompletedTask": 5
+    },
+    "2025-06-23": {
+        "planId": "P0540",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2025-06-24": {
+        "planId": "P0541",
+        "TotalTask": 17,
+        "CompletedTask": 5
+    },
+    "2025-06-25": {
+        "planId": "P0542",
+        "TotalTask": 6,
+        "CompletedTask": 4
+    },
+    "2025-06-26": {
+        "planId": "P0543",
+        "TotalTask": 17,
+        "CompletedTask": 6
+    },
+    "2025-06-27": {
+        "planId": "P0544",
+        "TotalTask": 20,
+        "CompletedTask": 7
+    },
+    "2025-06-28": {
+        "planId": "P0545",
+        "TotalTask": 18,
+        "CompletedTask": 9
+    },
+    "2025-06-29": {
+        "planId": "P0546",
+        "TotalTask": 13,
+        "CompletedTask": 9
+    },
+    "2025-06-30": {
+        "planId": "P0547",
+        "TotalTask": 15,
+        "CompletedTask": 9
+    },
+    "2025-07-01": {
+        "planId": "P0548",
+        "TotalTask": 10,
+        "CompletedTask": 7
+    },
+    "2025-07-02": {
+        "planId": "P0549",
+        "TotalTask": 15,
+        "CompletedTask": 6
+    },
+    "2025-07-03": {
+        "planId": "P0550",
+        "TotalTask": 7,
+        "CompletedTask": 3
+    },
+    "2025-07-04": {
+        "planId": "P0551",
+        "TotalTask": 16,
+        "CompletedTask": 9
+    },
+    "2025-07-05": {
+        "planId": "P0552",
+        "TotalTask": 6,
+        "CompletedTask": 3
+    },
+    "2025-07-06": {
+        "planId": "P0553",
+        "TotalTask": 9,
+        "CompletedTask": 3
+    },
+    "2025-07-07": {
+        "planId": "P0554",
+        "TotalTask": 11,
+        "CompletedTask": 4
+    },
+    "2025-07-08": {
+        "planId": "P0555",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2025-07-09": {
+        "planId": "P0556",
+        "TotalTask": 5,
+        "CompletedTask": 2
+    },
+    "2025-07-10": {
+        "planId": "P0557",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2025-07-11": {
+        "planId": "P0558",
+        "TotalTask": 14,
+        "CompletedTask": 7
+    },
+    "2025-07-12": {
+        "planId": "P0559",
+        "TotalTask": 7,
+        "CompletedTask": 4
+    },
+    "2025-07-13": {
+        "planId": "P0560",
+        "TotalTask": 13,
+        "CompletedTask": 7
+    },
+    "2025-07-14": {
+        "planId": "P0561",
+        "TotalTask": 10,
+        "CompletedTask": 6
+    },
+    "2025-07-15": {
+        "planId": "P0562",
+        "TotalTask": 20,
+        "CompletedTask": 12
+    },
+    "2025-07-16": {
+        "planId": "P0563",
+        "TotalTask": 14,
+        "CompletedTask": 9
+    },
+    "2025-07-17": {
+        "planId": "P0564",
+        "TotalTask": 19,
+        "CompletedTask": 10
+    },
+    "2025-07-18": {
+        "planId": "P0565",
+        "TotalTask": 19,
+        "CompletedTask": 8
+    },
+    "2025-07-19": {
+        "planId": "P0566",
+        "TotalTask": 8,
+        "CompletedTask": 3
+    },
+    "2025-07-20": {
+        "planId": "P0567",
+        "TotalTask": 18,
+        "CompletedTask": 10
+    },
+    "2025-07-21": {
+        "planId": "P0568",
+        "TotalTask": 19,
+        "CompletedTask": 7
+    },
+    "2025-07-22": {
+        "planId": "P0569",
+        "TotalTask": 13,
+        "CompletedTask": 4
+    },
+    "2025-07-23": {
+        "planId": "P0570",
+        "TotalTask": 16,
+        "CompletedTask": 6
+    },
+    "2025-07-24": {
+        "planId": "P0571",
+        "TotalTask": 11,
+        "CompletedTask": 4
+    },
+    "2025-07-25": {
+        "planId": "P0572",
+        "TotalTask": 8,
+        "CompletedTask": 3
+    },
+    "2025-07-26": {
+        "planId": "P0573",
+        "TotalTask": 7,
+        "CompletedTask": 3
+    },
+    "2025-07-27": {
+        "planId": "P0574",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2025-07-28": {
+        "planId": "P0575",
+        "TotalTask": 6,
+        "CompletedTask": 2
+    },
+    "2025-07-29": {
+        "planId": "P0576",
+        "TotalTask": 13,
+        "CompletedTask": 9
+    },
+    "2025-07-30": {
+        "planId": "P0577",
+        "TotalTask": 13,
+        "CompletedTask": 7
+    },
+    "2025-07-31": {
+        "planId": "P0578",
+        "TotalTask": 17,
+        "CompletedTask": 10
+    },
+    "2025-08-01": {
+        "planId": "P0579",
+        "TotalTask": 19,
+        "CompletedTask": 8
+    },
+    "2025-08-02": {
+        "planId": "P0580",
+        "TotalTask": 7,
+        "CompletedTask": 4
+    },
+    "2025-08-03": {
+        "planId": "P0581",
+        "TotalTask": 15,
+        "CompletedTask": 13
+    },
+    "2025-08-04": {
+        "planId": "P0582",
+        "TotalTask": 6,
+        "CompletedTask": 3
+    },
+    "2025-08-05": {
+        "planId": "P0583",
+        "TotalTask": 9,
+        "CompletedTask": 3
+    },
+    "2025-08-06": {
+        "planId": "P0584",
+        "TotalTask": 17,
+        "CompletedTask": 6
+    },
+    "2025-08-07": {
+        "planId": "P0585",
+        "TotalTask": 17,
+        "CompletedTask": 7
+    },
+    "2025-08-08": {
+        "planId": "P0586",
+        "TotalTask": 12,
+        "CompletedTask": 6
+    },
+    "2025-08-09": {
+        "planId": "P0587",
+        "TotalTask": 16,
+        "CompletedTask": 7
+    },
+    "2025-08-10": {
+        "planId": "P0588",
+        "TotalTask": 8,
+        "CompletedTask": 3
+    },
+    "2025-08-11": {
+        "planId": "P0589",
+        "TotalTask": 7,
+        "CompletedTask": 1
+    },
+    "2025-08-12": {
+        "planId": "P0590",
+        "TotalTask": 16,
+        "CompletedTask": 6
+    },
+    "2025-08-13": {
+        "planId": "P0591",
+        "TotalTask": 10,
+        "CompletedTask": 6
+    },
+    "2025-08-14": {
+        "planId": "P0592",
+        "TotalTask": 14,
+        "CompletedTask": 7
+    },
+    "2025-08-15": {
+        "planId": "P0593",
+        "TotalTask": 13,
+        "CompletedTask": 5
+    },
+    "2025-08-16": {
+        "planId": "P0594",
+        "TotalTask": 20,
+        "CompletedTask": 8
+    },
+    "2025-08-17": {
+        "planId": "P0595",
+        "TotalTask": 17,
+        "CompletedTask": 5
+    },
+    "2025-08-18": {
+        "planId": "P0596",
+        "TotalTask": 14,
+        "CompletedTask": 7
+    },
+    "2025-08-19": {
+        "planId": "P0597",
+        "TotalTask": 18,
+        "CompletedTask": 12
+    },
+    "2025-08-20": {
+        "planId": "P0598",
+        "TotalTask": 16,
+        "CompletedTask": 11
+    },
+    "2025-08-21": {
+        "planId": "P0599",
+        "TotalTask": 5,
+        "CompletedTask": 2
+    },
+    "2025-08-22": {
+        "planId": "P0600",
+        "TotalTask": 12,
+        "CompletedTask": 5
+    },
+    "2025-08-23": {
+        "planId": "P0601",
+        "TotalTask": 16,
+        "CompletedTask": 8
+    },
+    "2025-08-24": {
+        "planId": "P0602",
+        "TotalTask": 10,
+        "CompletedTask": 8
+    },
+    "2025-08-25": {
+        "planId": "P0603",
+        "TotalTask": 19,
+        "CompletedTask": 9
+    },
+    "2025-08-26": {
+        "planId": "P0604",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2025-08-27": {
+        "planId": "P0605",
+        "TotalTask": 10,
+        "CompletedTask": 1
+    },
+    "2025-08-28": {
+        "planId": "P0606",
+        "TotalTask": 13,
+        "CompletedTask": 5
+    },
+    "2025-08-29": {
+        "planId": "P0607",
+        "TotalTask": 18,
+        "CompletedTask": 10
+    },
+    "2025-08-30": {
+        "planId": "P0608",
+        "TotalTask": 8,
+        "CompletedTask": 4
+    },
+    "2025-08-31": {
+        "planId": "P0609",
+        "TotalTask": 8,
+        "CompletedTask": 3
+    },
+    "2025-09-01": {
+        "planId": "P0610",
+        "TotalTask": 8,
+        "CompletedTask": 3
+    },
+    "2025-09-02": {
+        "planId": "P0611",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2025-09-03": {
+        "planId": "P0612",
+        "TotalTask": 6,
+        "CompletedTask": 1
+    },
+    "2025-09-04": {
+        "planId": "P0613",
+        "TotalTask": 19,
+        "CompletedTask": 14
+    },
+    "2025-09-05": {
+        "planId": "P0614",
+        "TotalTask": 13,
+        "CompletedTask": 10
+    },
+    "2025-09-06": {
+        "planId": "P0615",
+        "TotalTask": 11,
+        "CompletedTask": 6
+    },
+    "2025-09-07": {
+        "planId": "P0616",
+        "TotalTask": 14,
+        "CompletedTask": 6
+    },
+    "2025-09-08": {
+        "planId": "P0617",
+        "TotalTask": 12,
+        "CompletedTask": 5
+    },
+    "2025-09-09": {
+        "planId": "P0618",
+        "TotalTask": 11,
+        "CompletedTask": 5
+    },
+    "2025-09-10": {
+        "planId": "P0619",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2025-09-11": {
+        "planId": "P0620",
+        "TotalTask": 17,
+        "CompletedTask": 5
+    },
+    "2025-09-12": {
+        "planId": "P0621",
+        "TotalTask": 11,
+        "CompletedTask": 4
+    },
+    "2025-09-13": {
+        "planId": "P0622",
+        "TotalTask": 20,
+        "CompletedTask": 8
+    },
+    "2025-09-14": {
+        "planId": "P0623",
+        "TotalTask": 16,
+        "CompletedTask": 7
+    },
+    "2025-09-15": {
+        "planId": "P0624",
+        "TotalTask": 10,
+        "CompletedTask": 4
+    },
+    "2025-09-16": {
+        "planId": "P0625",
+        "TotalTask": 9,
+        "CompletedTask": 5
+    },
+    "2025-09-17": {
+        "planId": "P0626",
+        "TotalTask": 8,
+        "CompletedTask": 3
+    },
+    "2025-09-18": {
+        "planId": "P0627",
+        "TotalTask": 8,
+        "CompletedTask": 4
+    },
+    "2025-09-19": {
+        "planId": "P0628",
+        "TotalTask": 10,
+        "CompletedTask": 6
+    },
+    "2025-09-20": {
+        "planId": "P0629",
+        "TotalTask": 5,
+        "CompletedTask": 2
+    },
+    "2025-09-21": {
+        "planId": "P0630",
+        "TotalTask": 12,
+        "CompletedTask": 6
+    },
+    "2025-09-22": {
+        "planId": "P0631",
+        "TotalTask": 18,
+        "CompletedTask": 5
+    },
+    "2025-09-23": {
+        "planId": "P0632",
+        "TotalTask": 19,
+        "CompletedTask": 10
+    },
+    "2025-09-24": {
+        "planId": "P0633",
+        "TotalTask": 19,
+        "CompletedTask": 8
+    },
+    "2025-09-25": {
+        "planId": "P0634",
+        "TotalTask": 20,
+        "CompletedTask": 8
+    },
+    "2025-09-26": {
+        "planId": "P0635",
+        "TotalTask": 19,
+        "CompletedTask": 11
+    },
+    "2025-09-27": {
+        "planId": "P0636",
+        "TotalTask": 13,
+        "CompletedTask": 7
+    },
+    "2025-09-28": {
+        "planId": "P0637",
+        "TotalTask": 14,
+        "CompletedTask": 10
+    },
+    "2025-09-29": {
+        "planId": "P0638",
+        "TotalTask": 18,
+        "CompletedTask": 7
+    },
+    "2025-09-30": {
+        "planId": "P0639",
+        "TotalTask": 14,
+        "CompletedTask": 8
+    },
+    "2025-10-01": {
+        "planId": "P0640",
+        "TotalTask": 19,
+        "CompletedTask": 9
+    },
+    "2025-10-02": {
+        "planId": "P0641",
+        "TotalTask": 14,
+        "CompletedTask": 7
+    },
+    "2025-10-03": {
+        "planId": "P0642",
+        "TotalTask": 6,
+        "CompletedTask": 4
+    },
+    "2025-10-04": {
+        "planId": "P0643",
+        "TotalTask": 7,
+        "CompletedTask": 2
+    },
+    "2025-10-05": {
+        "planId": "P0644",
+        "TotalTask": 11,
+        "CompletedTask": 5
+    },
+    "2025-10-06": {
+        "planId": "P0645",
+        "TotalTask": 14,
+        "CompletedTask": 8
+    },
+    "2025-10-07": {
+        "planId": "P0646",
+        "TotalTask": 10,
+        "CompletedTask": 6
+    },
+    "2025-10-08": {
+        "planId": "P0647",
+        "TotalTask": 9,
+        "CompletedTask": 6
+    },
+    "2025-10-09": {
+        "planId": "P0648",
+        "TotalTask": 10,
+        "CompletedTask": 7
+    },
+    "2025-10-10": {
+        "planId": "P0649",
+        "TotalTask": 10,
+        "CompletedTask": 4
+    },
+    "2025-10-11": {
+        "planId": "P0650",
+        "TotalTask": 5,
+        "CompletedTask": 4
+    },
+    "2025-10-12": {
+        "planId": "P0651",
+        "TotalTask": 15,
+        "CompletedTask": 13
+    },
+    "2025-10-13": {
+        "planId": "P0652",
+        "TotalTask": 19,
+        "CompletedTask": 11
+    },
+    "2025-10-14": {
+        "planId": "P0653",
+        "TotalTask": 17,
+        "CompletedTask": 8
+    },
+    "2025-10-15": {
+        "planId": "P0654",
+        "TotalTask": 6,
+        "CompletedTask": 1
+    },
+    "2025-10-16": {
+        "planId": "P0655",
+        "TotalTask": 7,
+        "CompletedTask": 4
+    },
+    "2025-10-17": {
+        "planId": "P0656",
+        "TotalTask": 12,
+        "CompletedTask": 8
+    },
+    "2025-10-18": {
+        "planId": "P0657",
+        "TotalTask": 18,
+        "CompletedTask": 9
+    },
+    "2025-10-19": {
+        "planId": "P0658",
+        "TotalTask": 16,
+        "CompletedTask": 8
+    },
+    "2025-10-20": {
+        "planId": "P0659",
+        "TotalTask": 10,
+        "CompletedTask": 7
+    },
+    "2025-10-21": {
+        "planId": "P0660",
+        "TotalTask": 6,
+        "CompletedTask": 4
+    },
+    "2025-10-22": {
+        "planId": "P0661",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2025-10-23": {
+        "planId": "P0662",
+        "TotalTask": 16,
+        "CompletedTask": 7
+    },
+    "2025-10-24": {
+        "planId": "P0663",
+        "TotalTask": 19,
+        "CompletedTask": 9
+    },
+    "2025-10-25": {
+        "planId": "P0664",
+        "TotalTask": 16,
+        "CompletedTask": 11
+    },
+    "2025-10-26": {
+        "planId": "P0665",
+        "TotalTask": 7,
+        "CompletedTask": 3
+    },
+    "2025-10-27": {
+        "planId": "P0666",
+        "TotalTask": 9,
+        "CompletedTask": 6
+    },
+    "2025-10-28": {
+        "planId": "P0667",
+        "TotalTask": 18,
+        "CompletedTask": 7
+    },
+    "2025-10-29": {
+        "planId": "P0668",
+        "TotalTask": 9,
+        "CompletedTask": 5
+    },
+    "2025-10-30": {
+        "planId": "P0669",
+        "TotalTask": 9,
+        "CompletedTask": 4
+    },
+    "2025-10-31": {
+        "planId": "P0670",
+        "TotalTask": 15,
+        "CompletedTask": 6
+    },
+    "2025-11-01": {
+        "planId": "P0671",
+        "TotalTask": 15,
+        "CompletedTask": 6
+    },
+    "2025-11-02": {
+        "planId": "P0672",
+        "TotalTask": 13,
+        "CompletedTask": 6
+    },
+    "2025-11-03": {
+        "planId": "P0673",
+        "TotalTask": 17,
+        "CompletedTask": 8
+    },
+    "2025-11-04": {
+        "planId": "P0674",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2025-11-05": {
+        "planId": "P0675",
+        "TotalTask": 5,
+        "CompletedTask": 3
+    },
+    "2025-11-06": {
+        "planId": "P0676",
+        "TotalTask": 9,
+        "CompletedTask": 4
+    },
+    "2025-11-07": {
+        "planId": "P0677",
+        "TotalTask": 7,
+        "CompletedTask": 5
+    },
+    "2025-11-08": {
+        "planId": "P0678",
+        "TotalTask": 11,
+        "CompletedTask": 7
+    },
+    "2025-11-09": {
+        "planId": "P0679",
+        "TotalTask": 5,
+        "CompletedTask": 2
+    },
+    "2025-11-10": {
+        "planId": "P0680",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2025-11-11": {
+        "planId": "P0681",
+        "TotalTask": 13,
+        "CompletedTask": 4
+    },
+    "2025-11-12": {
+        "planId": "P0682",
+        "TotalTask": 15,
+        "CompletedTask": 9
+    },
+    "2025-11-13": {
+        "planId": "P0683",
+        "TotalTask": 7,
+        "CompletedTask": 3
+    },
+    "2025-11-14": {
+        "planId": "P0684",
+        "TotalTask": 11,
+        "CompletedTask": 9
+    },
+    "2025-11-15": {
+        "planId": "P0685",
+        "TotalTask": 18,
+        "CompletedTask": 7
+    },
+    "2025-11-16": {
+        "planId": "P0686",
+        "TotalTask": 10,
+        "CompletedTask": 5
+    },
+    "2025-11-17": {
+        "planId": "P0687",
+        "TotalTask": 20,
+        "CompletedTask": 10
+    },
+    "2025-11-18": {
+        "planId": "P0688",
+        "TotalTask": 6,
+        "CompletedTask": 2
+    },
+    "2025-11-19": {
+        "planId": "P0689",
+        "TotalTask": 15,
+        "CompletedTask": 10
+    },
+    "2025-11-20": {
+        "planId": "P0690",
+        "TotalTask": 8,
+        "CompletedTask": 4
+    },
+    "2025-11-21": {
+        "planId": "P0691",
+        "TotalTask": 16,
+        "CompletedTask": 6
+    },
+    "2025-11-22": {
+        "planId": "P0692",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2025-11-23": {
+        "planId": "P0693",
+        "TotalTask": 5,
+        "CompletedTask": 4
+    },
+    "2025-11-24": {
+        "planId": "P0694",
+        "TotalTask": 7,
+        "CompletedTask": 2
+    },
+    "2025-11-25": {
+        "planId": "P0695",
+        "TotalTask": 17,
+        "CompletedTask": 8
+    },
+    "2025-11-26": {
+        "planId": "P0696",
+        "TotalTask": 16,
+        "CompletedTask": 9
+    },
+    "2025-11-27": {
+        "planId": "P0697",
+        "TotalTask": 12,
+        "CompletedTask": 7
+    },
+    "2025-11-28": {
+        "planId": "P0698",
+        "TotalTask": 5,
+        "CompletedTask": 1
+    },
+    "2025-11-29": {
+        "planId": "P0699",
+        "TotalTask": 17,
+        "CompletedTask": 6
+    },
+    "2025-11-30": {
+        "planId": "P0700",
+        "TotalTask": 16,
+        "CompletedTask": 9
+    },
+    "2025-12-01": {
+        "planId": "P0701",
+        "TotalTask": 11,
+        "CompletedTask": 7
+    },
+    "2025-12-02": {
+        "planId": "P0702",
+        "TotalTask": 15,
+        "CompletedTask": 10
+    },
+    "2025-12-03": {
+        "planId": "P0703",
+        "TotalTask": 14,
+        "CompletedTask": 11
+    },
+    "2025-12-04": {
+        "planId": "P0704",
+        "TotalTask": 16,
+        "CompletedTask": 10
+    },
+    "2025-12-05": {
+        "planId": "P0705",
+        "TotalTask": 17,
+        "CompletedTask": 3
+    },
+    "2025-12-06": {
+        "planId": "P0706",
+        "TotalTask": 7,
+        "CompletedTask": 5
+    },
+    "2025-12-07": {
+        "planId": "P0707",
+        "TotalTask": 19,
+        "CompletedTask": 13
+    },
+    "2025-12-08": {
+        "planId": "P0708",
+        "TotalTask": 18,
+        "CompletedTask": 9
+    },
+    "2025-12-09": {
+        "planId": "P0709",
+        "TotalTask": 9,
+        "CompletedTask": 3
+    },
+    "2025-12-10": {
+        "planId": "P0710",
+        "TotalTask": 19,
+        "CompletedTask": 12
+    },
+    "2025-12-11": {
+        "planId": "P0711",
+        "TotalTask": 18,
+        "CompletedTask": 10
+    },
+    "2025-12-12": {
+        "planId": "P0712",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2025-12-13": {
+        "planId": "P0713",
+        "TotalTask": 9,
+        "CompletedTask": 3
+    },
+    "2025-12-14": {
+        "planId": "P0714",
+        "TotalTask": 6,
+        "CompletedTask": 4
+    },
+    "2025-12-15": {
+        "planId": "P0715",
+        "TotalTask": 18,
+        "CompletedTask": 6
+    },
+    "2025-12-16": {
+        "planId": "P0716",
+        "TotalTask": 19,
+        "CompletedTask": 13
+    },
+    "2025-12-17": {
+        "planId": "P0717",
+        "TotalTask": 12,
+        "CompletedTask": 7
+    },
+    "2025-12-18": {
+        "planId": "P0718",
+        "TotalTask": 17,
+        "CompletedTask": 7
+    },
+    "2025-12-19": {
+        "planId": "P0719",
+        "TotalTask": 10,
+        "CompletedTask": 6
+    },
+    "2025-12-20": {
+        "planId": "P0720",
+        "TotalTask": 11,
+        "CompletedTask": 7
+    },
+    "2025-12-21": {
+        "planId": "P0721",
+        "TotalTask": 13,
+        "CompletedTask": 4
+    },
+    "2025-12-22": {
+        "planId": "P0722",
+        "TotalTask": 9,
+        "CompletedTask": 1
+    },
+    "2025-12-23": {
+        "planId": "P0723",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2025-12-24": {
+        "planId": "P0724",
+        "TotalTask": 17,
+        "CompletedTask": 10
+    },
+    "2025-12-25": {
+        "planId": "P0725",
+        "TotalTask": 19,
+        "CompletedTask": 11
+    },
+    "2025-12-26": {
+        "planId": "P0726",
+        "TotalTask": 20,
+        "CompletedTask": 9
+    },
+    "2025-12-27": {
+        "planId": "P0727",
+        "TotalTask": 6,
+        "CompletedTask": 2
+    },
+    "2025-12-28": {
+        "planId": "P0728",
+        "TotalTask": 9,
+        "CompletedTask": 6
+    },
+    "2025-12-29": {
+        "planId": "P0729",
+        "TotalTask": 17,
+        "CompletedTask": 8
+    },
+    "2025-12-30": {
+        "planId": "P0730",
+        "TotalTask": 20,
+        "CompletedTask": 14
+    }
+}

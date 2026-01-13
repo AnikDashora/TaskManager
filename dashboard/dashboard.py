@@ -437,7 +437,7 @@ header_styles = """
             min-height:10px;
             gap:0;
         }
-        .st-key-stats-container  .st-emotion-cache-yfw52f{
+        .st-key-stats-container  .st-emotion-cache-1rj1438{
             margin:0;
         }
         .stat-item {
@@ -1546,18 +1546,20 @@ empty_date_styles = """
             font-size: 18px !important;
             font-weight: 600 !important;
             color: var(--text-color) !important;
-            margin: 0 0 8px 0 !important;
+            margin: 0 0 24px 0 !important;
             padding: 0 !important;
+            text-align: center !important;
         }
 
         .stVerticalBlock.st-key-empty-state p {
-            color: var(--card-title-color) !important;
-            margin: 0 0 24px 0 !important;
-            padding: 0 !important;
+            color: var(--text-color) !important;
+            margin: 0 0 0 0 !important;
+            padding: 0px !important;
             max-width: 400px !important;
             margin-left: auto !important;
             margin-right: auto !important;
             font-size: 14px !important;
+            text-align: center !important;
         }
 
         /* Center the second add button in empty state */
@@ -2098,26 +2100,6 @@ fill_date_styles = """
             height: 48px !important;
             stroke: var(--filter-icon-color) !important;
         }
-
-        .stVerticalBlock.st-key-empty-state h3 {
-            font-size: 18px !important;
-            font-weight: 600 !important;
-            color: var(--text-color) !important;
-            margin: 0 0 8px 0 !important;
-            padding: 0 !important;
-        }
-
-        .stVerticalBlock.st-key-empty-state p {
-            color: var(--card-title-color) !important;
-            margin: 0 0 24px 0 !important;
-            padding: 0 !important;
-            max-width: 400px !important;
-            margin-left: auto !important;
-            margin-right: auto !important;
-            font-size: 14px !important;
-        }
-
-        
 
         /* ===== UTILITY CLASSES ===== */
         .svg-icon {
@@ -2706,7 +2688,7 @@ def dashboard_page():
     # else:
     #     model_display = modal_variable[1]
     
-    root_style = root_variables[0]  # Using light theme as default
+    root_style = root_variables[1]  # Using light theme as default
     model_display = modal_variable[0]  # Modal hidden by default
     styles = f"""
     <style>
@@ -2787,6 +2769,145 @@ def dashboard_page():
                         key = "logout-btn"
                     )
     
+    with st.container(key = "kpi-section"):
+        with st.container(key = "kpi-container"):
+            st.markdown(#card completion
+                f"""
+                <div class="card completion">
+                    <div class="card-content">
+                        <div class="card-info">
+                            <p class="card-title">Average Completion</p>
+                            <div class="card-value-container">
+                                <span class="card-value" id="avgCompletionRate">{0}%</span>
+                            </div>
+                        </div>
+                        <div class="card-icon completion-icon">
+                            <svg class="card-svg-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="12" cy="12" r="10"></circle>
+                                <circle cx="12" cy="12" r="4"></circle>
+                                <line x1="12" y1="2" x2="12" y2="6"></line>
+                                <line x1="12" y1="18" x2="12" y2="22"></line>
+                                <line x1="2" y1="12" x2="6" y2="12"></line>
+                                <line x1="18" y1="12" x2="22" y2="12"></line>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
+            st.markdown(#card progress
+                f"""
+                <div class="card progress">
+                    <div class="card-content">
+                        <div class="card-info">
+                            <p class="card-title">Total Progress</p>
+                            <div class="card-value-container">
+                                <span class="card-value" id="totalProgress">{0}/{0}</span>
+                                <span class="card-badge" id="totalProgressPercentage">{0}%</span>
+                            </div>
+                        </div>
+                        <div class="card-icon progress-icon">
+                            <svg class="card-svg-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline>
+                                <polyline points="17 6 23 6 23 12"></polyline>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
+            st.markdown(#card days
+                f"""
+                <div class="card days">
+                    <div class="card-content">
+                        <div class="card-info">
+                            <p class="card-title">Active Days</p>
+                            <div class="card-value-container">
+                                <span class="card-value" id="activeDays">{0}</span>
+                                <span class="card-badge">Tracked</span>
+                            </div>
+                        </div>
+                        <div class="card-icon days-icon">
+                            <svg class="card-svg-icon" viewBox="0 0 24 24" fill="none" stroke-width="2">
+                                <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                <line x1="16" y1="2" x2="16" y2="6"></line>
+                                <line x1="8" y1="2" x2="8" y2="6"></line>
+                                <line x1="3" y1="10" x2="21" y2="10"></line>
+                                <line x1="8" y1="14" x2="16" y2="14"></line>
+                                <line x1="8" y1="18" x2="16" y2="18"></line>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
+            st.markdown(#card attention
+                f"""
+                <div class="card attention">
+                    <div class="card-content">
+                        <div class="card-info">
+                            <p class="card-title">Needs Attention</p>
+                            <div class="card-value-container">
+                                <span class="card-value" id="incompleteCount">{0}</span>
+                                <span class="card-badge" id="attentionBadge">All Good</span>
+                            </div>
+                        </div>
+                        <div class="card-icon attention-icon">
+                            <svg class="card-svg-icon" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <circle cx="12" cy="12" r="10"></circle>
+                                <line x1="12" y1="8" x2="12" y2="12"></line>
+                                <line x1="12" y1="16" x2="12.01" y2="16"></line>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
+
+    with st.container(key = "main-content"):
+        with st.container(key = "section-header"):
+            st.markdown(
+                """<h2 class="section-title">Daily Task Management</h2>""",
+                unsafe_allow_html=True
+            )
+            st.button(
+                label="Add Date",
+                type="secondary",
+                key = "add-date-btn-1",
+                icon = ":material/add:",
+                # on_click=modal_toggle
+            )
+        with st.container(key="tasksContainer"):
+            user_tasks = {}
+
+            if not user_tasks:
+            # Empty state
+                with st.container(key="empty-state"):
+                    st.markdown(
+                    """
+                    <div class="empty-state-icon">
+                        <svg class="svg-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width: 48px; height: 48px;">
+                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                        </svg>
+                    </div>
+                    <h3>No dates added yet</h3>
+                    """,
+                    unsafe_allow_html=True
+                    )
+                    st.button(
+                    label="Add Your First Date",
+                    type="secondary",
+                    key="add-date-btn-2",
+                    icon=":material/add:",
+                    # on_click=modal_toggle
+                    )
 dashboard_page()
 
 
