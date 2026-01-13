@@ -336,14 +336,12 @@ header_styles = """
             gap: 12px;
         }
 
-        .st-key-logo-section .st-emotion-cache-r44huj{
+        .st-key-logo-section div{
             display:flex;
             flex-direction:row;
             gap:1rem;
             flex-wrap:wrap;
-            align-items:center;
-            justify-content:center;
-            
+            align-items:center; 
         }
 
         /* Logo styling */
@@ -379,6 +377,8 @@ header_styles = """
 
         /* Brand info */
         .brand-info {
+            display:flex;
+            flex-flow:column !important;
             flex: 1;
         }
 
@@ -421,9 +421,10 @@ header_styles = """
             border-radius: 12px !important;
             width:fit-content;
             flex-direction:row !important;
+            justify-content:center
         }
 
-        .st-key-stats-container .st-emotion-cache-r44huj{
+        .st-key-stats-container div{
             display:flex;
             flex-direction:row !important;
             gap:1rem;
@@ -433,8 +434,12 @@ header_styles = """
         }
         .st-key-header-right .st-emotion-cache-18kf3ut{
             width:fit-content;
+            min-height:10px;
+            gap:0;
         }
-
+        .st-key-stats-container  .st-emotion-cache-yfw52f{
+            margin:0;
+        }
         .stat-item {
             display: flex !important;
             align-items: center !important;
@@ -2733,7 +2738,6 @@ def dashboard_page():
                     </div>
                     <div class="brand-info">
                         <h1>ANIK DASHORA</h1>
-                        <p>ANIK DASHORA</p>
                     </div>
                     """,
                     unsafe_allow_html=True
