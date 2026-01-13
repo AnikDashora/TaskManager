@@ -689,7 +689,7 @@ kpi_styles = """
             }
             
             .st-key-kpi-container {
-                grid-template-columns: 1fr !important;
+                grid-template-columns: 2fr !important;
                 gap: 16px !important;
             }
             
