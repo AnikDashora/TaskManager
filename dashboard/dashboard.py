@@ -689,8 +689,8 @@ kpi_styles = """
             }
             
             .st-key-kpi-container {
-                grid-template-columns: 2fr !important;
-                gap: 16px !important;
+                grid-template-columns: 1fr !important;
+                gap: 24px !important;
             }
             
             .st-key-stats-container {
